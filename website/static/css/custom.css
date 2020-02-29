@@ -1,0 +1,256 @@
+/* your custom css */
+
+body {
+  background-color: #f4f6f7;
+  overflow-x: hidden;
+  font-family: $bodyFont;
+}
+
+.wrapper {
+  padding: 50px;
+}
+
+.mainContainer{
+padding: 60px 0;
+}
+
+.button {
+  background: #fee77b;
+  border: 2px solid #2c2c2c;
+  border-radius: 5px;
+  color: #000;
+  padding: 20px;
+}
+
+.navGroups ul {
+    margin-bottom: 0px;
+}
+
+.toc .toggleNav .navGroup .navGroupCategoryTitle,
+.toc .toggleNav .navGroup{
+  margin-bottom:0px;
+}
+.navGroupCategoryTitle.collapsible,
+.toc .toggleNav ul li a{
+  padding: 8px 10px ;
+  font-size: 0.9rem;
+  width: 100%;
+}
+.navListItem:hover,
+.navListItem:active,
+.navGroupCategoryTitle.collapsible:hover,
+.navGroupCategoryTitle.collapsible:active  {
+  background-color:rgba(0,0,0,.05);
+}
+
+.navGroupCategoryTitle.collapsible,
+.navListItem {
+    border-radius: .25rem;
+    color: #606770;
+    color: var(--ifm-menu-color);
+    cursor: pointer;
+    display: flex;
+    line-height: 20px;
+    justify-content: space-between;
+    text-decoration: none;
+    margin: 0;
+}
+
+article .videocontainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-bottom: 45px;
+}
+
+article iframe {
+  border: 5px #f29094 solid;
+  border-radius: 10px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+article .videocontainer iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+a {
+  color: rgb(131, 206, 235);
+  color: var(--links, var(--highlight, $primaryColor));
+}
+
+
+
+a:hover {
+  color: rgb(131, 206, 235);
+  color: var(--hover, $primaryColor);
+}
+
+article .videocontainer {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+  margin-bottom: 45px;
+}
+
+article iframe {
+  border: 5px solid var(--highlight, $primaryColor);
+  border-radius: 10px;
+  margin: 20px 0;
+  width: 100%;
+}
+
+article .videocontainer iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+}
+
+ol {
+  margin-left: 30px;
+}
+
+article div span h1:first-child {
+  margin-top: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+}
+
+
+.videoChapters {
+  display: flex;
+}
+
+.videoChaptersSidebar {
+  display: none;
+}
+
+/* Remove Header */
+.fixedHeaderContainer {
+  display: none;
+}
+.navPusher {
+  padding-top: 0;
+}
+
+/* Edit page button */
+a.edit-page-link {
+  float: none;
+  padding: 8px;
+  background: none;
+  border: none;
+  position: absolute;
+  bottom: -100px;
+}
+
+
+table th,
+table td {
+  padding: 0.5rem;
+  vertical-align: top;
+}
+
+table tr,
+table tr:nth-child(2n) {
+  background-color: white;
+}
+
+table {
+  display: inline-table;
+}
+
+hr {
+  border-color: #000;
+  border-style: solid;
+  border-width: 2px;
+  border-radius: 4px;
+}
+
+.note {
+  background-color: #caeff8;
+  color: #66737f;
+  border-left: 8px solid #29bbe3;
+  padding: 15px 30px 15px 15px;
+}
+
+/* Desktop and up */
+@media only screen and (min-width: 1024px) {
+
+
+  .wrapper {
+    padding: 0px;
+  }
+
+.separateOnPageNav .wrapper{
+  max-width: inherit;
+}
+.separateOnPageNav .docsNavContainer{
+  flex: 0 0 300px;
+  padding: 0px 15px;
+}
+
+  .docsNavContainer {
+    top: 0px;
+    border-right: 1px solid black;
+    box-sizing: border-box;
+
+  }
+
+  .separateOnPageNav.sideNavVisible .navPusher .mainContainer {
+    max-width: 900px;
+    margin: 0 auto;
+  }
+}
+
+/* Tablet (think iPad) and up */
+@media only screen and (min-device-width: 768px) {
+  .videoChaptersMain {
+    width: 75%;
+    margin-right: 5%;
+  }
+
+  .videoChaptersSidebar {
+    display: block;
+  }
+
+  .videoChaptersSidebar ul {
+    margin: 0;
+    padding: 0;
+    text-indent: 0;
+    list-style-type: none;
+  }
+
+  .videoChaptersSidebar li {
+    color: #bababa;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+
+  .videoChaptersSidebar li:last-child {
+    margin-bottom: 0;
+  }
+}
+
+.loaded.fileStats {
+  opacity: 1;
+}
+
+.fileStats {
+  color: gray !important;
+  display: inline-block;
+  padding: 0 10px;
+  font-size: 0.6em;
+  text-align: center;
+  opacity: 0;
+  text-transform: uppercase;
+}

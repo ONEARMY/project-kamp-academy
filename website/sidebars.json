@@ -1,0 +1,8 @@
+{
+  "docs": {
+    "Start": ["start/intro"],
+    "1. Research": ["research/intro", "research/tamera", "research/preciousplastic", "research/auroville"],
+    "2. Get land": ["land/share", "land/buy"],
+    "3. Move": ["move/move-intro", "move/house", "move/workspace"]
+  }
+}

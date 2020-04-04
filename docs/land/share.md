@@ -1,27 +1,25 @@
 ---
 id: share
-title: ✅Share the idea
+title: Share your idea
 ---
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/R-qZBVlsq0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-For quite a while now i’m interested in building my own house. The construction sector is very polluting and uses materials that are super difficult if not impossible to recycle. And the big solid houses they construct can last a lifetime but most of them are broken down way quicker, by us. I like to try another approach, making a smaller house from biodegradable and waste materials, recycle what is already out there. And besides these logical reason it just seems like a real fun challenge. kid-dream
+Starting a community is a big plan, you need money, build houses, fix legal paperwork etc. It can easily be overwhelming to start. But the good thing is, you are not alone. There are plenty of like minded people out there and the internet is a powerful tool to use for that. And you need that, a diverse skillset of people, engineers, chefs, gardeners, construction workers, laywers etc. So we advise as a first step to share your intention or idea. Explain what you want to do and what you need. Let others be a part of the journey.
 
-As you might now I like to work like this, trying to reduce the footprint we leave on earth. However throughout the years I noticed that, even if I really do my best to reduce it in daily life. I always leave a big footprint, because I’m part of this system. The stores that get my food from around the world, the packaging it contains, the electricity that is extracted from the wrong source, the streets lights that are always on, even the commute to work everyday.  Just participating in this system leaves a big footprint, specially living in the Western world. Its comfortable, but also wasteful.
+# Videoooo 👆
 
-I want to try out something else.
-Get a piece of land. A nice piece of land, with some water and trees. And build a small house. From decent materials. With a big workspace where we work to execute projects, working on global problems. We have one big shared kitchen to eat. We harvest energy from the sun and wind. Extract drinking water from the ground and rain. We grow our food locally and keep bees. Some animals walk around for interaction and there is a big tower, just for the fun of it. We live and work in this place with like minded people. Its like our online community, offline.
+We like videos, its a powerful way to share a message. You might nog be a experienced making videos or feel comfortable doing it. But you don't need much these days. Just a good storyline/ idea. Explain what you or your friends have in your head. The camera can be the thing you use on holidays or even your smartphone. Spend time writing the script, film it and share it with your friends, family and online communities with like minded people. Below a few tips to write your story:
 
-|   |   |   |
-|:-:|:-:|:-:|
-| ![energy](../assets/start/energy-p-800.png) we harvest our own Off the grid with electricity and water  | ![food](../assets/start/food_01-p-500.png) we eat food that is locally grown, in the right way   | ![workspace](../assets/start/icon_workspace-p-500.png) in our Workspace we develop new projects for the world  |
-| ![open-source](../assets/start/opensource-p-500.png) we share what we learn, its an open source experiment  | ![materials](../assets/start/materials-p-500.png) we build with biodegradable and recycled materials | ![house](../assets/start/house-p-500.png) We live and work together to build a future world  |
+### Tips for sharing your plan
+1. Explain why you are doing this, what is wrong with the current way. Why not just buy a house?
+2. Share your intention, what do you have in mind. What do you think could be better
+3. Show where you are at, tell what your plan is, what you've done and what coming next.
+4. End with a call to action. People are listing, if you need something, this is a good time to ask.
 
 
-**This is going to be one big experiment.**
-Probably a lot of stuff will go wrong. Thats ok. See the crucial part >internet. We share everything we learn open-source online. Everyone can learn from our mistakes and copy the best things. Its a prototype for another way of living. Combining new technologies with basic needs. Work together, to build a future we dream about for our next generation.
+# Create a digital place to talk
+It might take a while before you've gathered a group of like minded people, and most likely they don't all live around the corner. You can ding people in our Discord. But soon you need your own space. So creating a place to interact is crucial, whether its a forum, discord, whatsapp-group it doesn't matter. But setup a place where you can share ideas, suggestions and updates to slowly create your little team. And be patience, it might take a while. But there is probably enough to figure out and learn in the meantime anyway.
 
-**This is the first step, sharing the plan online.**
-So people like yourself can share ideas, suggestions or tips. Next step is finding piece of land. I’m a Dutch guy, would like to live in Netherlands. Good soil to grow food and harvest energy. However many rules and regulations. Probably not flexible enough to make this happen. So if it means moving out...i’ll do it. I’ll go wherever the opportunity is.
-Forward to step #2 - get a piece of land 💪
+<img src="../assets/land/share-plan.jpg"/>

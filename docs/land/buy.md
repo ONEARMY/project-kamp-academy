@@ -1,6 +1,6 @@
 ---
 id: buy
-title: 🎥 Buying land
+title: 🎥 Buying land (draft)
 ---
 
 <div class="videocontainer">
@@ -20,9 +20,6 @@ Steps to buy land
 - Research what do you want (previous chapter)
 - Then you start looking and visiting lands
 - And finally the actually buying process with
-
-***Let me show you the land***
-
 - Location, where. (soil, climate, accessibility)
 - Recommend to pin down country, makes search easier
 - Visit and meanwhile make connections.

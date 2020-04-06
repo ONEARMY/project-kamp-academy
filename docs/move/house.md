@@ -10,7 +10,7 @@ title: House in a van
 Specially the early days of setting up a community its hectic. Making sure there is water, workspace is being setup, the kitchen is running, showers work. Long days, a lot of physical work, it's tiring. You are working on the shared facilities and infrastructure for the community. And you don't want to spend too much time thinking about your individual place to sleep. However a good night rest is crucial. Luckily this is something you can prepare in advance, you can make it easier on yourself by living in a Van. Take your comfort with you.
 
 # Why a van makes sense?
-One of the goals of setting up a community is to share facilities. Not owning everything individually. This is already very noticeable when you convert your house into a van. You realise you don't need much. You share the shower, kitchen, toilet, chill space etc. You basically only need a bed and some personal storage. This makes it very easy and doable to live in something as small as a van. There is plenty of space to make it comfortable for yourself. It's basically your bedroom.
+One of the goals of setting up a community is to share facilities. Not owning everything individually. This is already very noticeable when you convert your house into a van. You realise you don't need much. You share the shower, kitchen, toilet, chill space etc. You basically only need a bed and some personal storage. This makes it very easy and doable to live in something as small as a van. There is plenty of space to make it comfortable for yourself. It's basically just your bedroom.
 
 
 # Get Started
@@ -20,7 +20,7 @@ Van | Type  | Pro | Con|
 --- | ---| ---| ---
 <img src="../assets/move/van-old.jpg" width="100"/> | __Old & Refurbished__ <br> Save materials| - Reuse materials <br> - More durable<br> - Easier to repair  | - More taxes<br> - Fuel intense<br> - Less comfortable   |
 <img src="../assets/move/van-new.jpg" width="100"/> | __New & Efficient__  <br> Save fuel| - Comfortable<br> - Less noise<br> - Easier to find<br> - Less fuel usage | - Support consumption<br> - Harder to repair
-<img src="../assets/move/van-convert.jpg" width="100"/> | __Old & Converted__ <br> Save both| - Best of both worlds<br> - Reuse materials <br>- Low on fuel   |- Expensive <br> - Very new technology  
+<img src="../assets/move/van-convert.jpg" width="100"/> | __Old & Converted__ <br> Save fuel & material| - Best of both worlds<br> - Reuse materials <br>- Low on fuel   |- Expensive <br> - Very new technology  
 
 ## Choose your type:
 __Old & Refurbished:__ If you are not going to drive a  lot and spend most of the time in one place this is a good option. You reduce the consumption of new cars and use existing resources as long as you can. But when you drive a lot other options make more sense
@@ -36,7 +36,7 @@ It's not hard to find a van, you can find them at your local dealer or the inter
 
 
 # Turn it into a home
-This the fun part, turning your van into a little house. There are many different ways to do this, many videos, instagram accounts. We won't got to much in depth here but advise to just browse around on the web #vanlife. So many clever simple, smart solutions to make your life more efficient and comfortable. But it is also easy to get lost in this, thinking you need it all. We advise to start living in their, camp out a few weekends. See what works for you, where you care about. Before ending up building a lot of things you don't really need.
+This the fun part, turning your van into a little house. There are many different ways to do this, many videos, instagram accounts. We won't got to much in depth here but advise to just browse around on the web #vanlife. So many clever simple, smart solutions to make your life more efficient and comfortable. But it is also easy to get lost in this, thinking you need it all. We advise to start living in their fast, camp out a few weekends on your parkingspace. See what works for you, where you care about. Before ending up building a lot of things you don't really need.
 
 >Tip: It's easy to get lost in thinking what you need. Best is to start living in it an adapt as you go
 
@@ -47,7 +47,7 @@ Being "off grid" is a great benefit for your house. Specially when using it as a
 <img src="../assets/move/van-solar.jpg" />
 
 # Wiring Electronics
-Solar panels work on low voltage, so do cars. So this makes it quite comfortable/friendly to work with. There are a few things to take in account thought:
+Solar panels work on low voltage, so do cars. So this makes it quite friendly to work with. There are a few things to take in account thought:
 - Because you work with low voltage, you have a higher amperage. So for energy intense connections you need thicker cables then the usual ones you find in your 230V house.
 - Having a separate "household battery" is useful. In this way you can drain your household battery but still be able to drive away on your car battery
 - Most cars are running on 12Volts, however bigger vans or trucks run on 24Volt. For instance this army van is 24Volts.

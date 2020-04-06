@@ -1,0 +1,73 @@
+<!DOCTYPE html><html lang="en"><head><meta charSet="utf-8"/><meta http-equiv="X-UA-Compatible" content="IE=edge"/><title>Share your idea · Project Kamp Community</title><meta name="viewport" content="width=device-width"/><meta name="generator" content="Docusaurus"/><meta name="description" content="&lt;div class=&quot;videocontainer&quot;&gt;"/><meta name="docsearch:language" content="en"/><meta property="og:title" content="Share your idea · Project Kamp Community"/><meta property="og:type" content="website"/><meta property="og:url" content="https://davehakkens.github.io/academy/"/><meta property="og:description" content="&lt;div class=&quot;videocontainer&quot;&gt;"/><meta property="og:image" content="https://davehakkens.github.io/academy/img/undraw_online.svg"/><meta name="twitter:card" content="summary"/><meta name="twitter:image" content="https://davehakkens.github.io/academy/img/undraw_tweetstorm.svg"/><link rel="shortcut icon" href="/academy/img/favicon.ico"/><link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/default.min.css"/><script type="text/javascript" src="https://buttons.github.io/buttons.js"></script><script src="/academy/js/scrollSpy.js"></script><link rel="stylesheet" href="/academy/css/main.css"/><script src="/academy/js/codetabs.js"></script></head><body class="sideNavVisible separateOnPageNav"><div class="fixedHeaderContainer"><div class="headerWrapper wrapper"><header><a href="/academy/"><img class="logo" src="/academy/img/logo.png" alt="Project Kamp Community"/><h2 class="headerTitleWithLogo">Project Kamp Community</h2></a><div class="navigationWrapper navigationSlider"><nav class="slidingNav"><ul class="nav-site nav-site-internal"><li class=""><a href="https://projectkamp.com" target="_self">back to main</a></li></ul></nav></div></header></div></div><div class="navPusher"><div class="docMainWrapper wrapper"><div class="docsNavContainer" id="docsNav"><nav class="toc"><div class="toggleNav"><section class="navWrapper wrapper"><div class="navBreadcrumb wrapper"><div class="navToggle" id="navToggler"><div class="hamburger-menu"><div class="line1"></div><div class="line2"></div><div class="line3"></div></div></div><h2><i>›</i><span>2. Get land</span></h2><div class="tocToggler" id="tocToggler"><i class="icon-toc"></i></div></div><div class="navGroups"><div class="navGroup"><h3 class="navGroupCategoryTitle collapsible">Start<span class="arrow"><svg width="24" height="24" viewBox="0 0 24 24"><path fill="#565656" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></h3><ul class="hide"><li class="navListItem"><a class="navItem" href="/academy/start/intro">Hello ✋</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle collapsible">1. Research<span class="arrow"><svg width="24" height="24" viewBox="0 0 24 24"><path fill="#565656" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></h3><ul class="hide"><li class="navListItem"><a class="navItem" href="/academy/research/intro">Start research</a></li><li class="navListItem"><a class="navItem" href="/academy/research/tamera">🇵🇹 Tamera in Portugal</a></li><li class="navListItem"><a class="navItem" href="/academy/research/preciousplastic">🇳🇱 Precious Plastic V4</a></li><li class="navListItem"><a class="navItem" href="/academy/research/auroville">🇮🇳 Auroville in India</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle collapsible">2. Get land<span class="arrow"><svg width="24" height="24" viewBox="0 0 24 24"><path fill="#565656" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></h3><ul class="hide"><li class="navListItem navListItemActive"><a class="navItem" href="/academy/land/share">Share your idea</a></li><li class="navListItem"><a class="navItem" href="/academy/land/buy">🎥 Buying land</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle collapsible">3. Move<span class="arrow"><svg width="24" height="24" viewBox="0 0 24 24"><path fill="#565656" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></h3><ul class="hide"><li class="navListItem"><a class="navItem" href="/academy/move/move-intro">🎥 Intro</a></li><li class="navListItem"><a class="navItem" href="/academy/move/house">House in a van</a></li><li class="navListItem"><a class="navItem" href="/academy/move/workspace">🎥 Build a starter box</a></li></ul></div><div class="navGroup"><h3 class="navGroupCategoryTitle collapsible">4. Build<span class="arrow"><svg width="24" height="24" viewBox="0 0 24 24"><path fill="#565656" d="M7.41 15.41L12 10.83l4.59 4.58L18 14l-6-6-6 6z"></path><path d="M0 0h24v24H0z" fill="none"></path></svg></span></h3><ul class="hide"><li class="navListItem"><a class="navItem" href="/academy/build/soon">soon (future)</a></li></ul></div></div></section></div><script>
+            var coll = document.getElementsByClassName('collapsible');
+            var checkActiveCategory = true;
+            for (var i = 0; i < coll.length; i++) {
+              var links = coll[i].nextElementSibling.getElementsByTagName('*');
+              if (checkActiveCategory){
+                for (var j = 0; j < links.length; j++) {
+                  if (links[j].classList.contains('navListItemActive')){
+                    coll[i].nextElementSibling.classList.toggle('hide');
+                    coll[i].childNodes[1].classList.toggle('rotate');
+                    checkActiveCategory = false;
+                    break;
+                  }
+                }
+              }
+
+              coll[i].addEventListener('click', function() {
+                var arrow = this.childNodes[1];
+                arrow.classList.toggle('rotate');
+                var content = this.nextElementSibling;
+                content.classList.toggle('hide');
+              });
+            }
+
+            document.addEventListener('DOMContentLoaded', function() {
+              createToggler('#navToggler', '#docsNav', 'docsSliderActive');
+              createToggler('#tocToggler', 'body', 'tocActive');
+
+              var headings = document.querySelector('.toc-headings');
+              headings && headings.addEventListener('click', function(event) {
+                var el = event.target;
+                while(el !== headings){
+                  if (el.tagName === 'A') {
+                    document.body.classList.remove('tocActive');
+                    break;
+                  } else{
+                    el = el.parentNode;
+                  }
+                }
+              }, false);
+
+              function createToggler(togglerSelector, targetSelector, className) {
+                var toggler = document.querySelector(togglerSelector);
+                var target = document.querySelector(targetSelector);
+
+                if (!toggler) {
+                  return;
+                }
+
+                toggler.onclick = function(event) {
+                  event.preventDefault();
+
+                  target.classList.toggle(className);
+                };
+              }
+            });
+        </script></nav></div><div class="container mainContainer docsContainer"><div class="wrapper"><div class="post"><header class="postHeader"><h1 id="__docusaurus" class="postHeaderTitle">Share your idea</h1></header><article><div><span><div class="videocontainer">
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/R-qZBVlsq0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<p>Starting a community is a big plan, you need money, build houses, fix legal paperwork etc. It can easily be overwhelming to start. But the good thing is, you are not alone. There are plenty of like minded people out there and the internet is a powerful tool to use for that. And you need that, a diverse skillset of people, engineers, chefs, gardeners, construction workers, laywers etc. So we advise as a first step to share your intention or idea. Explain what you want to do and what you need. Let others be a part of the journey.</p>
+<h1><a class="anchor" aria-hidden="true" id="videoooo-"></a><a href="#videoooo-" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Videoooo 👆</h1>
+<p>We like videos, its a powerful way to share a message. You might nog be a experienced making videos or feel comfortable doing it. But you don't need much these days. Just a good storyline/ idea. Explain what you or your friends have in your head. The camera can be the thing you use on holidays or even your smartphone. Spend time writing the script, film it and share it with your friends, family and online communities with like minded people. Below a few tips to write your story:</p>
+<h3><a class="anchor" aria-hidden="true" id="tips-for-sharing-your-plan"></a><a href="#tips-for-sharing-your-plan" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Tips for sharing your plan</h3>
+<ol>
+<li>Explain why you are doing this, what is wrong with the current way. Why not just buy a house?</li>
+<li>Share your intention, what do you have in mind. What do you think could be better</li>
+<li>Show where you are at, tell what your plan is, what you've done and what coming next.</li>
+<li>End with a call to action. People are listing, if you need something, this is a good time to ask.</li>
+</ol>
+<h1><a class="anchor" aria-hidden="true" id="create-a-digital-place-to-talk"></a><a href="#create-a-digital-place-to-talk" aria-hidden="true" class="hash-link"><svg class="hash-link-icon" aria-hidden="true" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Create a digital place to talk</h1>
+<p>It might take a while before you've gathered a group of like minded people, and most likely they don't all live around the corner. You can ding people in our Discord. But soon you need your own space. So creating a place to interact is crucial, whether its a forum, discord, whatsapp-group it doesn't matter. But setup a place where you can share ideas, suggestions and updates to slowly create your little team. And be patience, it might take a while. But there is probably enough to figure out and learn in the meantime anyway.</p>
+<p><img src="../assets/land/share-plan.jpg"/></p>
+</span></div></article></div><div class="docLastUpdate"><em>Last updated on 4/4/2020</em></div><div class="docs-prevnext"><a class="docs-prev button" href="/academy/research/auroville"><span class="arrow-prev">← </span><span>🇮🇳 Auroville in India</span></a><a class="docs-next button" href="/academy/land/buy"><span>🎥 Buying land</span><span class="arrow-next"> →</span></a></div></div></div><nav class="onPageNav"></nav></div><footer class="nav-footer" id="footer"><section class="sitemap"><a href="/academy/" class="nav-home"><img src="/academy/img/favicon.ico" alt="Project Kamp Community" width="66" height="58"/></a><div><h5>Docs</h5><a href="/academy/en/doc1.html">Getting Started (or other categories)</a><a href="/academy/en/doc2.html">Guides (or other categories)</a><a href="/academy/en/doc3.html">API Reference (or other categories)</a></div><div><h5>Community</h5><a href="/academy/en/users.html">User Showcase</a><a href="https://stackoverflow.com/questions/tagged/" target="_blank" rel="noreferrer noopener">Stack Overflow</a><a href="https://discordapp.com/">Project Chat</a><a href="https://twitter.com/" target="_blank" rel="noreferrer noopener">Twitter</a></div><div><h5>More</h5><a href="/academy/blog">Blog</a><a href="https://github.com/">GitHub</a><a class="github-button" data-icon="octicon-star" data-count-href="/facebook/docusaurus/stargazers" data-show-count="true" data-count-aria-label="# stargazers on GitHub" aria-label="Star this project on GitHub">Star</a></div></section><a href="https://opensource.facebook.com/" target="_blank" rel="noreferrer noopener" class="fbOpenSource"><img src="/academy/img/oss_logo.png" alt="Facebook Open Source" width="170" height="45"/></a><section class="copyright">Copyrightnow © 2020 ONE ARMY</section></footer></div></body></html>

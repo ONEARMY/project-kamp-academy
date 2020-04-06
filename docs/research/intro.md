@@ -4,24 +4,25 @@ title: Start research
 ---
 
 
+Research is an important step for starting to setup your own community. There are people out there in the world who have already been doing it for years. There is already a lot of technology, structures and system figured out along the way. That said the downside is that very little of this information can be found online, its a lot in the minds of older generation.
 
 
-### do research
-### visit other communites, houses
-### houses around the world
-### made a few videos.
-### documentRRIES AND VIDEOS TO Watch
-Not to much detail but more overview of communities.
-- bagwan
-- experimental community
+### Visit existing communities.
+We highly recommend to visit other communities in your area to learn from their expertise. They have years of knowledge, mistakes, tryouts prototypes and they are often very aware of local conditions. Which trees grow, what are the challenges, how water flows etc. Ecovillage (GEN) is a good place to find them. But it might be hard or complex to visit many communities, thats why we did this for you and made videos about it. This gives a glimpse of whats going on and how they run.
+
+### Houses, vegetables, technology
+Visiting communities is a good way to understand fully operating systems, once you see one running that is been around for a few years its kinda magical to see see all the details and strucutres they thought about. However inspiration and research can also come from individual actions, like alternative ways to build houses, what materials to use how to construct. Or how to grow food, visit farms, vegetables gardens etc. And how to manage energy infrastructure, drop by at a windmill or talk with a solar guy. The main point here is to keep your eyes open and try to learn from all the things that could be implemented in a community.
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+### Watch online content
+One of the main things we aim for is to document everything clearly online. That you can gain more knowledge in a centralised place. Besides the research videos we made there are also a few documentaries/videos we recommend to watch and you can learn a lot from
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+🎥 Name | Type | Location | Why
+--- | ---| ---| ---
+[Wild wild county](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Many lessons about fear and being friends with your neighbours
+[The experimental city](https://www.imdb.com/title/tt7753990/)| Video   | USA         | Good plans don't work out without local support
+[Tamera in Portugal](/academy/research/tamera)| Video   | Portugal    | Example of a place and the challenges of sharing knowledge
+[Auroville in India](/academy/research/auroville)| Video   | India       | How the largest community in the world is organised
+[Version 4](/academy/research/preciousplastic)| Video   | Netherlands | A year community-testrun with stranger from around the world
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
-
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
-
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+If you have more to add or ones we should watch share in our Discord

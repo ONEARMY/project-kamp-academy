@@ -6,9 +6,10 @@ body {
   font-family: $bodyFont;
 }
 
-.wrapper {
-  padding: 50px;
+.headerTitleWithLogo {
+    display: none !important;
 }
+
 
 .mainContainer{
 padding: 60px 0;
@@ -21,6 +22,31 @@ padding: 60px 0;
   color: #000;
   padding: 20px;
 }
+
+.navigationSlider .slidingNav ul li a {
+  border: 2px solid black;
+  border-radius: 4px;
+  padding: 7px 7px;
+  background-color: #e6e6e6;
+  color: black;
+  font-size: 0.8em;
+  display: inline;
+}
+
+.navigationSlider .slidingNav ul li {
+  display: inline-block;
+  right: 10px;
+  top: 10px;
+  position: fixed;
+}
+
+#tocToggler {
+  display: none;
+
+}
+
+.fixedHeaderContainer a
+{display:inline-block;}
 
 .navGroups ul {
     margin-bottom: 0px;
@@ -131,16 +157,18 @@ h3 {
   display: flex;
 }
 
+.onPageNav{
+  flex: inherit;
+  display:none!important;
+}
+
 .videoChaptersSidebar {
   display: none;
 }
 
-/* Remove Header */
-.fixedHeaderContainer {
-  display: none;
-}
+
 .navPusher {
-  padding-top: 0;
+  padding-top: 50px;
 }
 
 /* Edit page button */
@@ -187,8 +215,14 @@ hr {
 @media only screen and (min-width: 1024px) {
 
 
+.separateOnPageNav .wrapper, .separateOnPageNav .headerWrapper.wrapper{
+  max-width: inherit;
+}
+
+
+
   .wrapper {
-    padding: 0px;
+    padding: 0px 50px;
   }
 
 .separateOnPageNav .wrapper{

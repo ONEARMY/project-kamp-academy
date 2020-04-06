@@ -1,27 +1,41 @@
 ---
 id: preciousplastic
-title: ✅ Precious Plastic V4
+title: 🇳🇱 Precious Plastic V4
 ---
 
 <div class="videocontainer">
-  <iframe width="800" height="400" src="https://www.youtube.com/embed/NpEaa2P7qZI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe width="800" height="400" src="https://www.youtube.com/embed/OmBv6712ZRI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 
-### location
-### Kitchen
-### Houses
-### People/team
-### Get involved?
+🇳🇱 Information Precious Plastic V4  |     |
+---                       | ---|
+📍 Location                  | Eindhoven, Netherlands   |
+⛅️ Local climate             | Grey. -7 to 35   |
+🌍 Main Nationalities        | French, Dutch, German   |
+🚩 Established               | 2018 (1,5 year) |
+🌳 Size                      | 1 Big Workspace + 10 Houses  |
+🙂 Amount of residents       | +/-45   |
+⭐️ Goal                      | Develop Precious Plastic V4   |
+✨ Research work             | Prototyping machines and digital work  |
+🏗 Important structures      | Tropical Bar   |
+🚲 Open for visitors?        | Not anymore   |
+
+# Location
+The workspace is based in Eindhoven. A previous industrial city in the south of the Netherlands, nowadays a hun for many people that work in design. Being in an urbanised area makes it easy to get supplies, markets, hardware stores, scrapyards. However hard to find good food from local farms.
+<img src="../assets/research/eindhoven-location.jpg"/>
+
+# People
+In the course of a year we had 110 people helping, with an average of 35-50 people on the ground. People outside Europe could only stay 3 months due to visa regulations. The group came from around the world, new zealan, chile, kenya, malesia, russia, mexico, us, south africa etc. No one new eachother before they came, they only thing that brought them together was a passion to fix the plastic problem.
+<img src="../assets/research/v4-team.jpg"/>
 
 
+# Food
+The default was to have a Vegan kitchen, trying to draw a clear line. Most people in the team are not vegan or even vegeterian. So one of the goals was to make vegan good, as an inspiring example. And meanwhile aiming to source as much organic, local and zero-waste food as possible. However the line of vegan food got more blurry when dumpsterdiving came in, people in the community don't like waste. Some people decide to eat cheese that would otherwise be thrown away. Some people went to eat also milk chocolate. And others would stick to being 100% vegan.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+<img src="../assets/research/v4-food.jpg"/>
 
-Duis et egestas libero, imperdiet faucibus ipsum. Sed posuere eget urna vel feugiat. Vivamus a arcu sagittis, fermentum urna dapibus, congue lectus. Fusce vulputate porttitor nisl, ac cursus elit volutpat vitae. Nullam vitae ipsum egestas, convallis quam non, porta nibh. Morbi gravida erat nec neque bibendum, eu pellentesque velit posuere. Fusce aliquam erat eu massa eleifend tristique.
+# A temporary community
+We started with an empty workspace and a plan. Research and development was the key purpose of this project, the element that brought us all together. The goal was to develop machines to recycle plastic, not to build a community. So food, relations, infrastructure always came secondary. There was a deadline and a goal to complete. This brought a huge energy in the group, a very focussed and targeted way of working. New experts and people from around the world coming in the chip in their skills. But this also made it intense for long term (1 year) members, like running on 200% all the time. It worked out because it was a temporary community, but in the long term it would have not lasted in this way.
 
-Sed consequat sollicitudin ipsum eget tempus. Integer a aliquet velit. In justo nibh, pellentesque non suscipit eget, gravida vel lacus. Donec odio ante, malesuada in massa quis, pharetra tristique ligula. Donec eros est, tristique eget finibus quis, semper non nisl. Vivamus et elit nec enim ornare placerat. Sed posuere odio a elit cursus sagittis.
-
-Phasellus feugiat purus eu tortor ultrices finibus. Ut libero nibh, lobortis et libero nec, dapibus posuere eros. Sed sagittis euismod justo at consectetur. Nulla finibus libero placerat, cursus sapien at, eleifend ligula. Vivamus elit nisl, hendrerit ac nibh eu, ultrices tempus dui. Nam tellus neque, commodo non rhoncus eu, gravida in risus. Nullam id iaculis tortor.
-
-Nullam at odio in sem varius tempor sit amet vel lorem. Etiam eu hendrerit nisl. Fusce nibh mauris, vulputate sit amet ex vitae, congue rhoncus nisl. Sed eget tellus purus. Nullam tempus commodo erat ut tristique. Cras accumsan massa sit amet justo consequat eleifend. Integer scelerisque vitae tellus id consectetur.
+<img src="../assets/research/v4transformation.gif"/>

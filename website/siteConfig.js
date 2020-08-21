@@ -24,7 +24,7 @@ const siteConfig = {
   title: 'Project Kamp Community', // Title for your website.
   tagline: 'Building our offline community',
   url: 'https://davehakkens.github.io', // Your website URL
-  baseUrl: "/project-kamp-academy/",
+  baseUrl: "/academy/",
   onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",

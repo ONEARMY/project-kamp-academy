@@ -27,7 +27,7 @@ const siteConfig = {
   baseUrl: "/",
   onPageNav: 'separate',
   // remove /docs/ prefix
-  docsUrl: "",
+  docsUrl: "academy",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',

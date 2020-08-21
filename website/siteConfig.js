@@ -23,8 +23,8 @@ const users = [
 const siteConfig = {
   title: 'Project Kamp Community', // Title for your website.
   tagline: 'Building our offline community',
-  url: 'https://community.projectkamp.com', // Your website URL
-  baseUrl: "",
+  url: 'community.projectkamp.com', // Your website URL
+  baseUrl: "/",
   onPageNav: 'separate',
   // remove /docs/ prefix
   docsUrl: "",

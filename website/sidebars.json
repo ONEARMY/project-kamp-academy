@@ -1,9 +1,8 @@
 {
   "docs": {
     "Start": ["start/intro"],
-    "1. Research": ["research/intro", "research/tamera", "research/preciousplastic", "research/auroville", "research/monks"],
-    "2. Get land": ["land/share", "land/buy"],
-    "3. Move": ["move/move-intro", "move/house", "move/workspace"],
-    "4. Build":["build/soon"]
+    "1. Research": ["research/intro", "research/tamera", "research/preciousplastic", "research/auroville"],
+    "2. Get land (soon)": ["land/soon"],
+    "3. Move (soon)": ["move/soon"]
   }
 }

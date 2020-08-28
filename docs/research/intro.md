@@ -16,7 +16,8 @@ Visiting communities is a good way to understand fully operational systems, once
 ### Watch online content
 One of the main things we aim for is to document everything clearly online. That you can gain more knowledge in a centralised place. Besides the research videos we made there are also a few documentaries/videos we recommend to watch and you can learn a lot from. Let us know in [Discord](https://discord.com/invite/SSBrzeR) if you have others to recommend. For now we got these:
 
-🎥 Name | Type | Location | Why
+🎥 Name | Type | Location | Lesson
 --- | ---| ---| ---
-[Wild wild county](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Many lessons about fear and being friends with your neighbours
-[The experimental city](https://www.imdb.com/title/tt7753990/)| Video   | USA         | Good plans won't work without local support
+[Wild wild county](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Make friends with your neighbours, avoid fear.
+[The experimental city](https://www.imdb.com/title/tt7753990/)| Video   | USA    | Good plans are hard to execute work without local support.
+[Spaceship Earth](https://www.imdb.com/title/tt11394188/)| Video   | USA         | Try things, but take care of your documentation.

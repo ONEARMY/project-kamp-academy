@@ -19,6 +19,7 @@ title: 🇵🇹 Tamera in Portugal
 ✨ Research work             | Heal ourselves from love and sexuality  |
 🏗 Important structures      | Lake,    |
 🚲 Open for visitors?        | Yes during vistor days   |
+📰 More information          | [Tamera website](https://www.tamera.org/)  |
 
 
 # Location

@@ -85,7 +85,11 @@ const siteConfig = {
   },
 
   // Add custom scripts here that would be placed in <script> tags.
-  scripts: ['https://buttons.github.io/buttons.js'],
+  scripts: [
+  "https://buttons.github.io/buttons.js",
+  "/js/custom.js",
+  "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
+],
 
   // On page navigation for the current documentation page.
   onPageNav: 'separate',

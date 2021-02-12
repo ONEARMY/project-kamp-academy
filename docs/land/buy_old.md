@@ -9,7 +9,7 @@ title: Buying land
 
 
 # Introduction
-After you have visualised that [raw idea](https://community.projectkamp.com/academy/land/share) in your mind and shared your plan with others it's time for the big thing. Finding a piece of land. In this video we will explain how to do this step by step. From researching which land you need, to actually visiting the land and finally the buying process. Seeing how to set a price, where to look out for and what additional costs you will have. Below we will also go a bit more in depth on some documents that can be useful to use.
+After you have visualised that [raw idea](https://community.projectkamp.com/academy/land/share) in your mind and shared your plan with others it's time for the big thing. Finding a piece of land. In this video we will explain how to do this step by step. From researching which land you need, to actually visiting the land and finally the buying process. Seeing how to set a price, where to look out for and what additional costs you will have. Below we will go a bit more in depth on some documents that are useful to use.
 
 # Documents overview
 When buying land you will enter the world of documents. Documents you legally need to purchase land or documents that just make it easier to scout for lands. This is what we needed for our land in Portugal
@@ -26,7 +26,7 @@ When buying land you will enter the world of documents. Documents you legally ne
 
 # Project Plan
 We realised that it was helpful to have a document with infos about the project, plans and needs, as a PDF to send around, or to print out and have it with us on our trips.
-You can have a look at the document we made in our [download kit](https://github.com/ONEARMY/project-kamp-kit/archive/V0.1.zip) to get some ideas, here we’ll just go through the main points you might want to include:
+You can have a look at our document in our [download kit](https://github.com/ONEARMY/project-kamp-kit/archive/V0.1.zip) to get some ideas, here we’ll just go through the main points you might want to include:
 
  ### 1. Intro - Who are we?
 Give a brief overview of your group/project. Who are the people involved, where are you at the moment, what have you been up to recently, and what are your values and goals?
@@ -35,22 +35,22 @@ Give a brief overview of your group/project. Who are the people involved, where 
 <img src="../assets/land/project-plan.png"/>
 
 ### 2. What is [Project Kamp]?
-Here we described what the Project Kamp (or however your project will be called) is about, so that the reader gets the overall idea. Describe what the plan and vision is and how you work. An important thing for us to mention is the open-source aspect and the community: that it’s about finding local solutions, and sharing them globally, improving and learning with a worldwide community. It might be a bit abstract, but as soon as people get the concept, they usually like it :) Also describe, how you plan to finance this project, what your income streams are - even if you don’t know exactly yet, it’s good to show that you’re tinking about it!
+Here we described what the Project Kamp (or however you want to call it in your case) is about, so that the reader gets the overall idea. Describe what the plan and vision is and how you work. An important thing for us to mention is the open-source aspect and the community: That it’s about finding local solutions, and sharing them globally, improving and learning with a worldwide community. It might be a bit abstract, but as soon as people get the concept, they usually like it :) Also describe, how you plan to finance this project, what your income streams are - even if you don’t know exactly yet, it’s good to show that you’re tinking about it!
 
 ### 3. Project Overview
 Time to go a bit more into detail! Even if you’re flexible, it helps if you define some points to make it easier to search.
 - Property: In one overview, define the price you can pay, the size and type of land, the location (regions) and accessibility, and connection to public transport, what resources you need (electricity, buildings or building permits, water, trees and what you intend to use the land for)
 - Housing and Facilities: Describe how you envision to live and what buildings and infrastructure the land needs to have space for.
 - Workspace: Describe what space, buildings and requirements you’ll need for your work, and describe what machines and processes you’re going to use.
-- Resources: We also added a section about how we plan to use and treat resources around us (like water. electricity, food and waste) with respect and care. Gives a more detailed image, and probably (hopefully) makes the thought of having you as a neighbour a positive thought :) 
+- Resources: We also added a section about how we plan to use and treat resources around us (like water. electricity, food and waste) with respect and mindfully. Gives a more detailed image, and probably (hopefully) makes the thought of having you as a neighbour a positive thought :) 
 
 ### 4. Benefits for the area
-Now, final chance to convince whoever is reading the document, that they would like to have you around! We think that projects like this have a lot of positive points to offer to the local community. Show how the land, economy, education, and culture can benefit from what you do!
+Now, final chance to convince whoever is reading the document, that they would like to have you around! We think that projects like this have a lot of positive points to offer. Show how the land, economy, education, and culture can benefit from what you do!
 Contact
 Last point: Don’t forget to add your contact (website, email, phone number) to make it as easy as possible to reach out to you.
 
 
-> ⭐️ **Tip:** Be aware you are entering as an outsider to a new region. This will affect their lifes and routines. Specially if you are doing something a bit out of the box like a community. Try to have a chat with local people, the neighbours and the municipality. See if they like your plan. It's good to have them onboard for the long term.
+> ⭐️ **Tip:** Be aware you are enter as an outsider to a new region. This will effect their lifes and routines. Specially if you are doing something a bit out of the box like a community. Try to have a chat with local people, the neighbours and the municipality. See if they like your plan. It's good to have them onboard for the long term.
 
 
 
@@ -58,7 +58,7 @@ Last point: Don’t forget to add your contact (website, email, phone number) to
 # Checklist for visiting lands
 
 When visiting lands you will get a lot of information thrown at you. Specially after a long day of visiting lands it becomes hard to distinguish them from each other. And sometimes you are overwhelmed when visiting a piece of land and you simply forget to ask the right critical questions. For that reason we made a checklist, a list you take with you on every land. It answers basic questions like:
-- What's the size of the land?
+- Whats the size of the land?
 - Is there electricity?
 - Whats the exact location?
 - Is it easy to access?
@@ -66,7 +66,7 @@ When visiting lands you will get a lot of information thrown at you. Specially a
 <img src="../assets/land/checklist.png"/>
 
 
-You can download the checklist [in our download kit](https://github.com/ONEARMY/project-kamp-kit/archive/V0.1.zip) + see an example on how to used it. It's an interactive PDF with text boxes so is easy to fill in digitally, or you can print it out when visiting the lands. Feel free to tweak and edit the list to your own needs. Have fun :)
+Here you can download the checklist [in our download kit](https://github.com/ONEARMY/project-kamp-kit/archive/V0.1.zip) + see and example on how to use it. It's is an interactive PDF with text boxes so easy to fill in digitally, or you can print it out when visiting the lands. Feel free to tweak and edit the list to your own needs. Have fun :)
 
 # Useful links
 - [Pure portugal, lots of good guides to buy a land](https://www.pureportugal.co.uk/guides/)

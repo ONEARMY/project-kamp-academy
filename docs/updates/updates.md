@@ -16,3 +16,11 @@ To make sure we properly document and archive everything we started update video
 
 # Watch the latest update 👇
 <iframe width="560" height="500" src="https://www.youtube.com/embed/videoseries?list=PLB9itIy7Yj62ui4V-2uNX4KW7ziavyKSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+# Update 2
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9X8lDksjCU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+# Update 1
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Ub-I2m2PWAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

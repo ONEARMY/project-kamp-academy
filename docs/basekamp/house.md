@@ -1,6 +1,6 @@
 ---
 id: house
-title: House in a Van (soon)
+title: House in a Van
 ---
 
 <div class="videocontainer">

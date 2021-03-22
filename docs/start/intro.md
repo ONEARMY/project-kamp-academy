@@ -11,11 +11,11 @@ The goal of this project is trying to find alternative way to live, one that cau
 
 ### Current stage.
 
-So where are we currently at? Well..still in the early days. We did a lot of research, bought a piece of land and are getting ready to move! Soon more developments will come, best is to subscribe on [Youtube](https://www.youtube.com/c/davehakkens/videos). Meanwhile make sure to browse the chapters on the side 👈 to see where we are at.
+So where are we currently at? Well..still in the early days. We did a lot of research, bought a piece of land and are getting ready to move! Soon more developments will come, best is to subscribe on [Youtube](https://www.youtube.com/channel/UCqA-SppbeUi5ou0isB27mgg). Meanwhile make sure to browse the chapters on the side 👈 to see where we are at.
 
 ### Get involved?
 
-At the moment there isn't that much help needed since we are still preparing the ground. That said, something that really helps a lot is just liking, sharing and watching the content we put out. Your helping out by educating your mind and spreading the word, which one day will come to use :) Meanwhile you can also visit [support.projectkamp.com](https://support.projectkamp.com)  to see other ways to contribute. Like donating money or supporting on [Patreon!](https://www.patreon.com/davehakkens) 
+At the moment there isn't that much help needed since we are still preparing the ground. That said, something that really helps a lot is just liking, sharing and watching the content we put out. Your helping out by educating your mind and spreading the word, which one day will come to use :) Meanwhile you can also visit [support.projectkamp.com](https://support.projectkamp.com)  to see other ways to contribute. Like donating money or supporting on [Patreon!](https://www.patreon.com/davehakkens)
 
 ### Questions?
 

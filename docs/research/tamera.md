@@ -17,20 +17,20 @@ title: 🇵🇹 Tamera in Portugal
 🙂 Amount of residents       | +/- 200   |
 ⭐️ Goal                      | Building a healing biotope   |
 ✨ Research work             | Heal ourselves from love and sexuality  |
-🏗 Important structures      | Lake,    |
+🏗 Important structures      | Lake    |
 🚲 Open for visitors?        | Yes during vistor days   |
 📰 More information          | [Tamera website](https://www.tamera.org/)  |
 
 
 # Location
-The community is based in the south of Portugal. Warm climate with with mellow winters. There is a local village 15 minutes by drive and some farms around. Regional food and farming is available. But besides that it's quite remote to get supplies and resources for R&D. They take a truck every now and then to go to the big city to get supplies. It's remote for European standards, because Amazon just delivers to their property.
+The community is based in the south of Portugal. Warm climate with with mellow winters. There is a local village 15 minutes by car and some farms around. Regional food and farming is available. But besides that it's quite remote to get supplies and resources for R&D. They take a truck every now and then to go to the big city to get supplies. It's remote for European standards, because Amazon just delivers to their property.
 <img src="../assets/research/tamera-location.jpg"/>
 
 # People
-By far most people here are Germans, it's also a very common spoken languages. Probably more then English or Portuguese. For the rest nationalities are diverse, Portuguese, Israeli, French, US etc. The impressive thing here is the age-range. They have the first generation living there which is in their 60-70's and new born children. This makes the community very diverse. Young wild energetic spirits mixed with old knowledge keepers that observer the space.
+By far most people here are Germans, it's also a very common spoken languages. Probably more than English or Portuguese. The remaining nationalities are diverse, Portuguese, Israeli, French, US etc. The impressive thing here is the age-range. They have the first generation living there which are in their 60-70's and new born children. This makes the community very diverse. Young wild energetic spirits mixed with old knowledge keepers that observer the space.
 
 # Food
-One of the goals of Tamera is to create a world of abundance, a place without scarcity. You can really see this philosophy in their food. Amazing vegan meals cooked every day, food grown and harvested from their own land or farms in the region. Fruit trees everywhere around the lake. They also have a small shop that sells food. They use a diverse set of metrics to define what food is "good" metrics like: Do we support this supplier long term vision, do they harm animals, do they regenerate their land, is it local, is it with little packaging etc. Always trying to improve their supply chain.
+One of the goals of Tamera is to create a world of abundance, a place without scarcity. You can really see this philosophy in their food. Amazing vegan meals cooked every day, food grown and harvested from their own land or farms in the region. Fruit trees everywhere around the lake. They also have a small shop that sells food. They use a diverse set of metrics to define what food is "good" metrics like: Do we support this supplier's long term vision, do they harm animals, do they regenerate their land, is it local, is it with little packaging etc. Always trying to improve their supply chain.
 <img src="../assets/research/tamera-harvest.jpg"/>
 
 # Energy infrastructure
@@ -39,4 +39,4 @@ In the south of Portugal sun is in abundance, solar is relatively easy to harves
 <img src="../assets/research/tamera-solar.jpg"/>
 
 # Research & Development
-Originally the community was doing more technical Research and Development, specially in the moments where they where setting up. They needed to figure out how to build their houses, infrastructure, roads etc. Nowadays the community is quite established, most basic infrastructure is there so there is less direct need for R&D. The biggest form of research is now on love & sexuality. How how to deal with trust, jealousy, how to structure relationship, have pure intentions etc. Trying to heal humans from the trauma's they carry inside. Which would ultimately also result on improvements in our own environment. When our intentions are good and pure we will do good things.
+Originally the community was doing more technical Research and Development, specially in the moments where they where setting up. They needed to figure out how to build their houses, infrastructure, roads etc. Nowadays the community is quite established, most basic infrastructure is there so there is less direct need for R&D. The biggest form of research is now on love & sexuality. How how to deal with trust, jealousy, how to structure relationships, have pure intentions etc. Trying to heal humans from the traumas they carry inside. Which would ultimately also result in improvements in our own environment. When our intentions are good and pure we will do good things.

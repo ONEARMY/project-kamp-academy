@@ -34,7 +34,7 @@ In a Krishna temple you can find people from all walks of life and nationalities
 
 
 # Food
-Prasad is a food offering made to Krishna. All food consumed in the temple by the monks and visitors has to be offered to Krishna first and become purified. The food is vegetarian with a lot of rules and regulations on what can and cannot be eaten. Galic? Nop. Onion? Nein. The act of cooking also comes with a rigid set of rules.
+Prasad is a food offering made to Krishna. All food consumed in the temple by the monks and visitors has to be offered to Krishna first and become purified. The food is vegetarian with a lot of rules and regulations on what can and cannot be eaten. Garlic? Nop. Onion? Nein. The act of cooking also comes with a rigid set of rules.
 
 **Non-intoxication**
 

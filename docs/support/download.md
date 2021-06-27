@@ -5,7 +5,7 @@ sidebar_label: 📦 Download-kit
 ---
 
 
-Project Kamp is just getting started. The download kit is small and in early stages. But hey. You got to start somewhere. So here you can download everything we got so far. Thank you for seeing potential this early on, keeps us motivated to continue development! :)
+Project Kamp is just getting started. The download kit is small and in the early stages. But hey, you got to start somewhere. So here you can download everything we got so far. Thank you for seeing potential this early on, keeps us motivated to continue development! :)
 <br>
 <br>
 <br>

@@ -1,5 +1,8 @@
 # project-kamp-academy
-Academy for the project kamp project
+Academy for the Project Kamp project
+
+- Project Kamp Website - https://projectkamp.com/
+- Project Kamp Academy - https://community.projectkamp.com/academy/start/intro
 
 ## Building locally
 It isn't particularly well-optimised for external contribution (yet!), but if you really want to try it out:

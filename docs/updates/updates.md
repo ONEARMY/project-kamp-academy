@@ -17,6 +17,9 @@ To make sure we properly document and archive everything we started doing update
 # Watch the latest update 👇
 <iframe width="560" height="500" src="https://www.youtube.com/embed/videoseries?list=PLB9itIy7Yj62ui4V-2uNX4KW7ziavyKSo" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+# Update 22
+<iframe width="560" height="500" src="https://www.youtube.com/embed/yAhP06xTOZg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # Update 21
 <iframe width="560" height="500" src="https://www.youtube.com/embed/aK62SWbpbNM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -174,12 +174,10 @@ h3 {
 
 /* Edit page button */
 a.edit-page-link {
-  float: none;
-  padding: 8px;
   background: none;
-  border: none;
-  position: absolute;
-  bottom: -100px;
+  border: 0px;
+  color: black;
+  font-size: 14px;
 }
 
 

@@ -57,6 +57,7 @@ const siteConfig = {
     primaryColor: '#8ab57f',
     secondaryColor: '#416e39',
   },
+  editUrl: "https://github.com/ONEARMY/project-kamp-academy/blob/master/docs/",
 
   /* Custom fonts for website */
   /*

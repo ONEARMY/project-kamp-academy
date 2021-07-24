@@ -3,7 +3,7 @@ id: solar
 title: Add solar power
 ---
 
-Connecting a piece of land to the grid can be expensive if it is not yet connected, sometimes depeding on your needs, having a solar setup can be better. Below is how a solar system was setup at Project Kamp
+Connecting a piece of land to the grid can be expensive if it is not yet connected, sometimes depeding on your needs, having a solar setup can be better. Below is how a solar system was setup at Project Kamp.
 
 # Setting up an offgrid solar system
 

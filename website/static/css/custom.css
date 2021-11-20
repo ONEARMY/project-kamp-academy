@@ -6,14 +6,12 @@ body {
   font-family: $bodyFont;
 }
 
-
 .headerTitleWithLogo {
-    display: none !important;
+  display: none !important;
 }
 
-
-.mainContainer{
-padding: 60px 0;
+.mainContainer {
+  padding: 60px 0;
 }
 
 .button {
@@ -43,44 +41,44 @@ padding: 60px 0;
 
 #tocToggler {
   display: none;
-
 }
 
-.fixedHeaderContainer a
-{display:inline-block;}
+.fixedHeaderContainer a {
+  display: inline-block;
+}
 
 .navGroups ul {
-    margin-bottom: 0px;
+  margin-bottom: 0px;
 }
 
 .toc .toggleNav .navGroup .navGroupCategoryTitle,
-.toc .toggleNav .navGroup{
-  margin-bottom:0px;
+.toc .toggleNav .navGroup {
+  margin-bottom: 0px;
 }
 .navGroupCategoryTitle.collapsible,
-.toc .toggleNav ul li a{
-  padding: 8px 10px ;
+.toc .toggleNav ul li a {
+  padding: 8px 10px;
   font-size: 0.9rem;
   width: 100%;
 }
 .navListItem:hover,
 .navListItem:active,
 .navGroupCategoryTitle.collapsible:hover,
-.navGroupCategoryTitle.collapsible:active  {
-  background-color:rgba(0,0,0,.05);
+.navGroupCategoryTitle.collapsible:active {
+  background-color: rgba(0, 0, 0, 0.05);
 }
 
 .navGroupCategoryTitle.collapsible,
 .navListItem {
-    border-radius: .25rem;
-    color: #606770;
-    color: var(--ifm-menu-color);
-    cursor: pointer;
-    display: flex;
-    line-height: 20px;
-    justify-content: space-between;
-    text-decoration: none;
-    margin: 0;
+  border-radius: 0.25rem;
+  color: #606770;
+  color: var(--ifm-menu-color);
+  cursor: pointer;
+  display: flex;
+  line-height: 20px;
+  justify-content: space-between;
+  text-decoration: none;
+  margin: 0;
 }
 
 article .videocontainer {
@@ -109,8 +107,6 @@ a {
   color: rgb(131, 206, 235);
   color: var(--links, var(--highlight, $primaryColor));
 }
-
-
 
 a:hover {
   color: rgb(131, 206, 235);
@@ -150,26 +146,27 @@ article div span h1:first-child {
 h1,
 h2,
 h3 {
-  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial,
+    sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
 }
-
 
 .videoChapters {
   display: flex;
 }
 
-.onPageNav{
+.onPageNav {
   flex: inherit;
-  display:none!important;
+  display: none !important;
 }
 
 .videoChaptersSidebar {
   display: none;
 }
 
-
+.docsNavContainer,
 .navPusher {
-  padding-top: 50px;
+  padding-top: 0 !important;
+  min-height: 100vh !important;
 }
 
 /* Edit page button */
@@ -179,7 +176,6 @@ a.edit-page-link {
   color: black;
   font-size: 14px;
 }
-
 
 table th,
 table td {
@@ -212,31 +208,27 @@ hr {
 
 /* Desktop and up */
 @media only screen and (min-width: 1024px) {
-
-
-.separateOnPageNav .wrapper, .separateOnPageNav .headerWrapper.wrapper{
-  max-width: inherit;
-}
-
-
+  .separateOnPageNav .wrapper,
+  .separateOnPageNav .headerWrapper.wrapper {
+    max-width: inherit;
+  }
 
   .wrapper {
     padding: 0px 50px;
   }
 
-.separateOnPageNav .wrapper{
-  max-width: inherit;
-}
-.separateOnPageNav .docsNavContainer{
-  flex: 0 0 300px;
-  padding: 0px 15px;
-}
+  .separateOnPageNav .wrapper {
+    max-width: inherit;
+  }
+  .separateOnPageNav .docsNavContainer {
+    flex: 0 0 300px;
+    padding: 0px 15px;
+  }
 
   .docsNavContainer {
     top: 0px;
     border-right: 1px solid black;
     box-sizing: border-box;
-
   }
 
   .separateOnPageNav.sideNavVisible .navPusher .mainContainer {
@@ -286,4 +278,8 @@ hr {
   text-align: center;
   opacity: 0;
   text-transform: uppercase;
+}
+
+.fixedHeaderContainer {
+  display: none;
 }

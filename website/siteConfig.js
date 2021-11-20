@@ -11,21 +11,21 @@
 // List of projects/orgs using your project for the users page.
 const users = [
   {
-    caption: 'User1',
+    caption: "User1",
     // You will need to prepend the image path with your baseUrl
     // if it is not '/', like: '/test-site/img/image.jpg'.
-    image: '/img/undraw_open_source.svg',
-    infoLink: 'https://www.facebook.com',
+    image: "/img/undraw_open_source.svg",
+    infoLink: "https://www.facebook.com",
     pinned: true,
   },
 ];
 
 const siteConfig = {
-  title: 'Project Kamp Community', // Title for your website.
-  tagline: 'Building our offline community',
-  url: 'community.projectkamp.com', // Your website URL
+  title: "Project Kamp Community", // Title for your website.
+  tagline: "Building our offline community",
+  url: "community.projectkamp.com", // Your website URL
   baseUrl: "/",
-  onPageNav: 'separate',
+  onPageNav: "separate",
   // remove /docs/ prefix
   docsUrl: "academy",
   // For github.io type URLs, you would set the url and baseUrl like:
@@ -33,29 +33,29 @@ const siteConfig = {
   //   baseUrl: '/test-site/',
 
   // Used for publishing and more
-  projectName: 'project-kamp-academy',
-  organizationName: 'davehakkens',
+  projectName: "project-kamp-academy",
+  organizationName: "davehakkens",
   // For top-level user or org sites, the organization is still the same.
   // e.g., for the https://JoelMarcey.github.io site, it would be set like...
   //   organizationName: 'JoelMarcey'
 
   // For no header links in the top nav bar -> headerLinks: [],
   headerLinks: [
-    { href: 'https://projectkamp.com', label: 'back to main' },
+    // { href: 'https://projectkamp.com', label: 'back to main' },
   ],
 
   // If you have users set above, you add it here:
   users,
 
   /* path to images for header/footer */
-  headerIcon: 'img/logo.png',
-  footerIcon: 'img/favicon.ico',
-  favicon: 'img/favicon.ico',
+  headerIcon: false,
+  footerIcon: "img/favicon.ico",
+  favicon: "img/favicon.ico",
 
   /* Colors for website */
   colors: {
-    primaryColor: '#8ab57f',
-    secondaryColor: '#416e39',
+    primaryColor: "#8ab57f",
+    secondaryColor: "#416e39",
   },
   editUrl: "https://github.com/ONEARMY/project-kamp-academy/blob/master/docs/",
 
@@ -73,8 +73,17 @@ const siteConfig = {
   },
   */
   fonts: {
-    bodyFont: ["-apple-system", "BlinkMacSystemFont", "Segoe UI", "Helvetica", "Arial",
-    "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"]
+    bodyFont: [
+      "-apple-system",
+      "BlinkMacSystemFont",
+      "Segoe UI",
+      "Helvetica",
+      "Arial",
+      "sans-serif",
+      "Apple Color Emoji",
+      "Segoe UI Emoji",
+      "Segoe UI Symbol",
+    ],
   },
 
   // This copyright info is used in /core/Footer.js and blog RSS/Atom feeds.
@@ -82,24 +91,24 @@ const siteConfig = {
 
   highlight: {
     // Highlight.js theme to use for syntax highlighting in code blocks.
-    theme: 'default',
+    theme: "default",
   },
 
   // Add custom scripts here that would be placed in <script> tags.
   scripts: [
-  "https://buttons.github.io/buttons.js",
-  "/js/custom.js",
-  "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js"
-],
+    "https://buttons.github.io/buttons.js",
+    "/js/custom.js",
+    "https://cdnjs.cloudflare.com/ajax/libs/tiny-slider/2.9.2/min/tiny-slider.js",
+  ],
 
   // On page navigation for the current documentation page.
-  onPageNav: 'separate',
+  onPageNav: "separate",
   // No .html extensions for paths.
   cleanUrl: true,
 
   // Open Graph and Twitter card images.
-  ogImage: 'img/undraw_online.svg',
-  twitterImage: 'img/undraw_tweetstorm.svg',
+  ogImage: "img/undraw_online.svg",
+  twitterImage: "img/undraw_tweetstorm.svg",
 
   // For sites with a sizable amount of content, set collapsible to true.
   // Expand/collapse the links and subcategories under categories.

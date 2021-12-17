@@ -166,7 +166,6 @@ h3 {
 .docsNavContainer,
 .navPusher {
   padding-top: 0 !important;
-  min-height: 100vh !important;
 }
 
 /* Edit page button */
@@ -229,6 +228,11 @@ hr {
     top: 0px;
     border-right: 1px solid black;
     box-sizing: border-box;
+  }
+
+  .docsNavContainer,
+  .navPusher {
+    min-height: 100vh !important;
   }
 
   .separateOnPageNav.sideNavVisible .navPusher .mainContainer {

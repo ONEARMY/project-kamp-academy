@@ -1,10 +1,17 @@
 {
   "docs": {
     "Start": ["start/intro"],
+<<<<<<< Updated upstream
     "1. Research": ["research/intro", "research/tamera", "research/auroville", "research/preciousplastic", "research/krishna" ],
     "2. Find land ": ["land/share", "land/buy"],
     "3. Setup Basekamp": ["basekamp/intro", "basekamp/house", "basekamp/container"],
     "🎥 Update videos": ["updates/video"],
     "More": ["support/download", "support/chat" ]
+=======
+    "1. Explore": ["explore/intro", "explore/tamera", "explore/preciousplastic", "explore/auroville"],
+    "2. Get land": ["land/share", "land/buy"],
+    "3. Move": ["move/move-intro", "move/house", "move/workspace"],
+    "4. Build":["build/soon"]
+>>>>>>> Stashed changes
   }
 }

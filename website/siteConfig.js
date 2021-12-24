@@ -24,10 +24,10 @@ const siteConfig = {
   title: "Project Kamp Community", // Title for your website.
   tagline: "Building our offline community",
   url: "community.projectkamp.com", // Your website URL
-  baseUrl: "/",
+  baseUrl: "/academy/",
   onPageNav: "separate",
   // remove /docs/ prefix
-  docsUrl: "academy",
+  docsUrl: "",
   // For github.io type URLs, you would set the url and baseUrl like:
   //   url: 'https://facebook.github.io',
   //   baseUrl: '/test-site/',

@@ -15,7 +15,7 @@ So where are we currently at? Well ... we are still in the early days. We did a 
 
 ### Open source & License
 
-We share everything open source for anyone to use and benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Project Kamp and shapes most decisions within our team. We believe that collaboration is stronger than competition and that the plastic problem can only be solved collectively.
+We share everything open source for anyone to use and benefit from. This means that all the knowledge, know-how, processes, methodologies and tools are available online, for free at all times. This open source philosophy is at the core of Project Kamp and shapes most decisions within our team. We believe that collaboration is stronger than competition.
 
 Different parts of this project are under different license conditions
 

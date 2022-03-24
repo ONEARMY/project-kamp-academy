@@ -19,4 +19,4 @@ Post a question. Try to define in one sentence what you want to research. A ques
 Do whatever you need to do to answer your question. Make experiments, test prototypes, make pictures, share .pdfs. Whatever you do, make sure to document your learnings along the way like a journal. This is very useful information for the next person having the same question and is a good way for people to help out when you are stuck.
 
 ### 3. End 🏁
-It's not necessary to answer your question. It might be to big question for one person/topic to answer. This is not a problem, the things you tried and researched are valauble for the nest person taking on the task. That said if you do decide to stop the research make a post about it. Inform others that the thread stops so someone else can continue in another topic.
+It's not necessary to answer your question. It might be to big question for one person/topic to answer. This is not a problem, the things you tried and researched are valuable for the nest person taking on the task. That said if you do decide to stop the research make a post about it. Inform others that the thread stops so someone else can continue in another topic.

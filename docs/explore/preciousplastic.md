@@ -31,7 +31,7 @@ In the course of a year we had 110 people helping, with an average of 35-50 peop
 <img src="../assets/research/v4-team.jpg"/>
 
 # Food
-The default was to have a Vegan kitchen, trying to draw a clear line. Most people that came where not vegan or even vegeterian. So one of the goals was to make vegan good, as an inspiring delicious example. And meanwhile aiming to source as much organic, local and zero-waste food as possible. However the line of vegan food got more blurry when dumpsterdiving came in, people in the community don't like waste. Some people decided to eat cheese that would otherwise be thrown away. Some people also ate milk chocolate. And others would stick to being 100% vegan.
+The default was to have a Vegan kitchen, trying to draw a clear line. Most people who came were not vegan or even vegetarian. So one of the goals was to make vegan good, as an inspiring delicious example. And meanwhile aiming to source as much organic, local and zero-waste food as possible. However the line of vegan food got more blurry when dumpsterdiving came in, people in the community don't like waste. Some people decided to eat cheese that would otherwise be thrown away. Some people also ate milk chocolate. And others would stick to being 100% vegan.
 
 <img src="../assets/research/v4-food.jpg"/>
 

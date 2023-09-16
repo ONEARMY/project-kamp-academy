@@ -22,7 +22,7 @@ title: 🇮🇳 Auroville in India
 📰 More information          | [Auroville website](https://www.auroville.org/)  |
 
 # Location
-Auroville is based in the South of India in the Tamil region. It's a sunny and warm climate all year around. Originally the region was quite deserted due to the amount of trees that where taken down by the British. The biggest city around is Pondicherry, many supplies are available here and there is a local airport. But for heavy industry or tools you need to drive 3-4 hours to Chennai.
+Auroville is based in the South of India in the Tamil region. It's a sunny and warm climate all year around. Originally the region was quite deserted due to the amount of trees that were taken down by the British. The biggest city around is Pondicherry, many supplies are available here and there is a local airport. But for heavy industry or tools you need to drive 3-4 hours to Chennai.
 <img src="../assets/research/auroville-location.jpg"/>
 
 # City Planning
@@ -35,7 +35,7 @@ There are over 50 different nationalities in Auroville, from all different age r
 
 <img src="../assets/research/auroville-bonfire.jpg"/>
 # Food
-There isn't one strict way of food consumption in Auroville. It depends in which sub-community you are located. Some eat vegan food, some only local, some meat. It's up the the sub-community to define. However there is one main kitchen where many people eat. The Solar Kitchen, originally setup to provide the community with a good solid meal without having to worry about it so they can focus on work. Here still everyday 1000 meals are being cooked, all vegeterian and some vegan options available. Not fancy but nutritious.
+There isn't one strict way of food consumption in Auroville. It depends in which sub-community you are located. Some eat vegan food, some only local, some meat. It's up the the sub-community to define. However there is one main kitchen where many people eat. The Solar Kitchen, originally setup to provide the community with a good solid meal without having to worry about it so they can focus on work. Here still everyday 1000 meals are being cooked, all vegetarian and some vegan options available. Not fancy but nutritious.
 <img src="../assets/research/auroville-food1.jpg"/>
 
 # Energy infrastructure
@@ -44,5 +44,5 @@ Over 500KW of electricity is generated using solar panels and there are 150 sola
 <img src="../assets/research/auroville-solar.jpg"/>
 
 # Work beyond community life
-Sustaining this big community is a daily tasks for most Aurovillians, working at a local community or running a business. In the evening or weekends there isn't one main place to gather. No specific square, bar or gathering. Drugs and alcohol is also not sold and not encouraged to use (you can still find it though). But there is always plenty to do. You can find events online and on notification boards. Plenty of things to do everyday somewhere in Auroville. Movies, presentation, yoga classes, workshops, dancing etc.
+Sustaining this big community is a daily tasks for most Aurovillians, working at a local community or running a business. In the evening or weekends there isn't one main place to gather. No specific square, bar or gathering. Drugs and alcohol are also not sold and not encouraged to use (you can still find it though). But there is always plenty to do. You can find events online and on notification boards. Plenty of things to do everyday somewhere in Auroville. Movies, presentation, yoga classes, workshops, dancing etc.
 <img src="../assets/research/auroville-events.jpg"/>

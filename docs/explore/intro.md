@@ -4,7 +4,7 @@ title: Start exploring
 ---
 
 
-Exploring what is already out there is an important step for starting to setup your own community. There are people all over the world who have already been doing it for years. There is already a lot of technology, structures and system figured out along the way. That said the downside is that very little of this information can be found online, its a lot in the minds of older generation.
+Exploring what is already out there is an important step for starting to setup your own community. There are people all over the world who have already been doing it for years. There is already a lot of technology, structures and system figured out along the way. That said the downside is that very little of this information can be found online, it's a lot in the minds of older generation.
 
 
 ### Visit existing communities.

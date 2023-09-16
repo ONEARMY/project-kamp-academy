@@ -38,7 +38,7 @@ It's not hard to find a van, you can find them at your local dealer or on the in
 
 
 # Turn it into a home
-This the fun part, turning your van into a little house. There are many different ways to do this, many videos and instagram accounts. We won't go too much in depth here but advise to just browse around on the web #vanlife. So many clever simple, smart solutions to make your life more efficient and comfortable. But it is also easy to get lost in this, thinking you need it all. We advise to start living in their fast, camp out a few weekends on your parkin gspace. See what works for you and what you care about before you end up building a lot of things you don't really need.
+This is the fun part, turning your van into a little house. There are many different ways to do this, many videos and instagram accounts. We won't go too much in depth here but advise to just browse around on the web #vanlife. So many clever simple, smart solutions to make your life more efficient and comfortable. But it is also easy to get lost in this, thinking you need it all. We advise to start living in there fast, camp out a few weekends in your parking space. See what works for you and what you care about before you end up building a lot of things you don't really need.
 
 > ⭐️ **Tip:** It's easy to get lost in what you think you need. Best is to start living in it and adapt as you go.
 

@@ -31,7 +31,7 @@ A Basekamp will be shaped a lot by where you are going and where you are coming 
 
 
 # Why shipping containers?
-Setting up a Basekamp in a container has a few upsides. What makes it very suited for the job is that you can easily move them around. You can fully prepare them at you original location, prepare yourself properly. Set it up with your own tools, in your own place, where you know the area and places to get material. You can fully prepare yourself and then transport it to a remote area with little resources available. Plus a container is standardised, around the world. If you say you are transporting or delivering a container people know what you mean. Wherever you are. So it's much easier to find local transport, prepare roads, find a crane etc. People know how containers work and how to deal with them
+Setting up a Basekamp in a container has a few upsides. What makes it very suited for the job is that you can easily move them around. You can fully prepare them at your original location, prepare yourself properly. Set it up with your own tools, in your own place, where you know the area and places to get material. You can fully prepare yourself and then transport it to a remote area with little resources available. Plus a container is standardised, around the world. If you say you are transporting or delivering a container people know what you mean. Wherever you are. So it's much easier to find local transport, prepare roads, find a crane etc. People know how containers work and how to deal with them
 
 <img src="../assets/move/container-transport.jpg"/>
 
@@ -39,18 +39,18 @@ Setting up a Basekamp in a container has a few upsides. What makes it very suite
 # Why 2x 20ft containers and not 1 x 40ft?
 You could setup your Basekamp in 1 big (40ft) shipping container. Plenty of space. They are generally even cheaper to get (you only need to buy 1 container instead of 2) and we [worked with them before](https://www.youtube.com/watch?v=Pf-foTVBmMQ), we love them. But for a Basekamp you might want to think twice.
 
-- Manoeuvring: It can be hard to move big containers around, specially in rural, dirtroad small corner areas. Having one big 12 meter metal container to move is more complex then 2 smaller ones.
+- Maneuvering: It can be hard to move big containers around, specially in rural, dirtroad small corner areas. Having one big 12 meter metal container to move is more complex than 2 smaller ones.
 - Weight: The container will be stuffed with machines, tools, equipment etc. They will become heavy, and 1 big container will likley become twice as heavy. To load and offload this container you generally need bigger equipment, which again might be harder to find in rural areas.
-- Separating space: A kitchen and Workspace are 2 complete different spaces. Which ideally are not combined, you don't want grinder sounds or welding fumes in your kitchen and no boiled tomato saus and humidity in you workspace. Having 2 containers helps to isolate ther work from eachother.
+- Separating space: A kitchen and Workspace are 2 complete different spaces. Which ideally are not combined, you don't want grinder sounds or welding fumes in your kitchen and no boiled tomato sauce and humidity in your workspace. Having 2 containers helps to isolate their work from each other.
 
 <img src="../assets/move/container-20vs40.png"/>
 
 
 # Convert the containers
 Here is where it gets fun, modify the containers. There is a lot of inspiration to find on this topic (Youtube: container house), really a lot. And since the container is basically a metal box you can do almost anything with it. Windows anywhere, add doors, add a wall etc. The design will depend a lot on where you are going and what you are putting inside. In the end it's a very personal choice how to install everything, but there are a few tips.
-- Floorplan: It's hard to squeeze a lot into a small space, but it pays of to do the extra puzzling.
-- Use outside space: You might move to an area where you work more in the outdoors, use this in your benefit. Keep the essential tools inside so they stay safe and dry. But try to do the actual work outside, under a tent. (We actually see our workspace more as a toolbox, a big box that hosts our tools and we work somewhere else)
-- Metal walls: this is just genius. You can weld and bolt anything on the wall and ceiling, easy and super strong. Try to use this in your advantage. Also magnets are great to use!
+- Floorplan: It's hard to squeeze a lot into a small space, but it pays off to do the extra puzzling.
+- Use outside space: You might move to an area where you work more in the outdoors, use this to your benefit. Keep the essential tools inside so they stay safe and dry. But try to do the actual work outside, under a tent. (We actually see our workspace more as a toolbox, a big box that hosts our tools and we work somewhere else)
+- Metal walls: this is just genius. You can weld and bolt anything on the wall and ceiling, easy and super strong. Try to use this to your advantage. Also magnets are great to use!
 <img src="../assets/move/container-paint.gif"/>
 <img src="../assets/move/container-electronics.gif"/>
 

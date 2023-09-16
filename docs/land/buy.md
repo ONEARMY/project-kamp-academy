@@ -51,7 +51,7 @@ Now, final chance to convince whoever is reading the document, that they would l
 Last point: Don’t forget to add your contact (website, email, phone number) to make it as easy as possible to reach out to you.
 
 
-> ⭐️ **Tip:** Be aware you are entering as an outsider to a new region. This will affect their lifes and routines. Specially if you are doing something a bit out of the box like a community. Try to have a chat with local people, the neighbours and the municipality. See if they like your plan. It's good to have them onboard for the long term.
+> ⭐️ **Tip:** Be aware you are entering as an outsider to a new region. This will affect their lives and routines. Specially if you are doing something a bit out of the box like a community. Try to have a chat with local people, the neighbours and the municipality. See if they like your plan. It's good to have them onboard for the long term.
 
 
 

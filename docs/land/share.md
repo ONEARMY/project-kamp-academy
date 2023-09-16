@@ -6,7 +6,7 @@ title: Share your idea
   <iframe width="800" height="400" src="https://www.youtube.com/embed/R-qZBVlsq0Y" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-Starting a community is a big project, you need money, to build houses, to fix legal paperwork etc. It can easily be overwhelming to start. But the good thing is, you are not alone. There are plenty of like minded people out there and the internet is a powerful tool which you can use. And you will need the internet, a diverse skillset of people, engineers, chefs, gardeners, construction workers, laywers etc. So we advise as a first step to share your intention or idea. Explain what you want to do and what you need. Let others be a part of the journey.
+Starting a community is a big project, you need money, to build houses, to fix legal paperwork etc. It can easily be overwhelming to start. But the good thing is, you are not alone. There are plenty of like minded people out there and the internet is a powerful tool which you can use. And you will need the internet, a diverse skillset of people, engineers, chefs, gardeners, construction workers, lawyers etc. So we advise as a first step to share your intention or idea. Explain what you want to do and what you need. Let others be a part of the journey.
 
 # Videoooo 👆
 

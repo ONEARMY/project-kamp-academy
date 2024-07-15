@@ -5,6 +5,6 @@
     "2. Find land ": ["land/share", "land/buy"],
     "3. Setup Basekamp": ["basekamp/intro", "basekamp/house", "basekamp/container"],
     "🎥 Update videos": ["updates/video"],
-    "More": ["support/download", "support/chat" ]
+    "More": ["support/download", "support/merch", "support/chat" ]
   }
 }

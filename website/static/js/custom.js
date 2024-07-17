@@ -196,8 +196,11 @@ function passLinkClicksToParent() {
     if (!node.href.includes(location.host)) {
       node.addEventListener("click", ev => {
         ev.preventDefault();
-        const href = ev.target.href;
-        parent.postMessage({ linkClick: href }, "*");
+        const linkElement = ev.target.closest('a');
+        if(linkElement) {
+          const href = ev.target.href;
+          parent.postMessage({ linkClick: href }, "*");
+        }
       });
     }
   });

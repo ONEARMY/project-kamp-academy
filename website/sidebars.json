@@ -3,7 +3,7 @@
     "Start": ["start/intro"],
     "1. Explore": ["explore/intro", "explore/tamera", "explore/auroville", "explore/preciousplastic", "explore/krishna" ],
     "2. Find land ": ["land/share", "land/buy"],
-    "3. Setup Basekamp": ["basekamp/intro", "basekamp/house", "basekamp/container"],
+    "3. Setup Basekamp": ["basekamp/intro", "basekamp/house", "basekamp/container", "basekamp/solar"],
     "🎥 Update videos": ["updates/video"],
     "More": ["support/download", "support/merch", "support/chat" ]
   }

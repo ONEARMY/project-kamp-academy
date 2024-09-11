@@ -56,7 +56,7 @@ Here is where it gets fun, modify the containers. There is a lot of inspiration 
 
 
 # Plug and play
-We build the container in a way that everything is connected, water, electricity, sockets, lights, water taps. It takes quite an amount of effort to wire everything up instead of just putting it in the container. But in the end you want to create a useful space, and back home you probably have better tools and equipment to do this job. So we recommend to do as much as you can back home, so once you arrive at a place. You sort out your water and electricity, hook it up and ready to go! [Here](/academy/support/download)  you can find the schematics of our containers, your looks probably different, but it might give you an easy start. Good luck!
+We build the container in a way that everything is connected, water, electricity, sockets, lights, water taps. It takes quite an amount of effort to wire everything up instead of just putting it in the container. But in the end you want to create a useful space, and back home you probably have better tools and equipment to do this job. So we recommend to do as much as you can back home, so once you arrive at a place. You sort out your water and electricity, hook it up and ready to go! [Here](https://community.projectkamp.com/academy/support/download)  you can find the schematics of our containers, your looks probably different, but it might give you an easy start. Good luck!
 <img src="../assets/move/container-schematics.png"/>
 
 **💬 If at this point you have any questions, want to meet like minded people or want to share an idea you have for your container 👉 visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord**

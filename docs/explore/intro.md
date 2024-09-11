@@ -21,9 +21,9 @@ One of the main things we aim for is to document everything clearly online. So y
 [Wild wild county](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Make friends with your neighbours, avoid fear.
 [The experimental city](https://www.imdb.com/title/tt7753990/)| Video   | USA    | Good plans are hard to execute work without local support.
 [Spaceship Earth](https://www.imdb.com/title/tt11394188/)| Video   | USA         | Try things, but take care of your documentation.
-[Tamera in Portugal](/academy/research/tamera)| Video   | Portugal    | Example of a place and the challenges of sharing knowledge
-[Auroville in India](/academy/research/auroville)| Video   | India       | How the largest community in the world is organised
-[Version 4](/academy/research/preciousplastic)| Video   | Netherlands | A year community-testrun with stranger from around the world
+[Tamera in Portugal](https://community.projectkamp.com/academy/research/tamera)| Video   | Portugal    | Example of a place and the challenges of sharing knowledge
+[Auroville in India](https://community.projectkamp.com/academy/research/auroville)| Video   | India       | How the largest community in the world is organised
+[Version 4](https://community.projectkamp.com/academy/research/preciousplastic)| Video   | Netherlands | A year community-testrun with stranger from around the world
 [Nice Try Podcast](https://archive.curbed.com/2019/5/7/18514684/nice-try-podcast-utopian-avery-trufelman)| Podcast   | World |A podcast going deeper into a few "failed" Utopias
 
 

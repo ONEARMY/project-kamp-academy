@@ -68,7 +68,7 @@ Item | Type of item  | Extra information
 
 ## Need inspiration?
 
-Have a look at Mattia's van featured in [Update video #5](/academy/updates/video). It's an old German Post office Van. In the update he gives a tour, explains his best features and problems he had with it. Fun fact, his van is also in the original Project Kamp Drawing :)
+Have a look at Mattia's van featured in [Update video #5](https://community.projectkamp.com/academy/updates/video). It's an old German Post office Van. In the update he gives a tour, explains his best features and problems he had with it. Fun fact, his van is also in the original Project Kamp Drawing :)
 
 <img src="../assets/move/van-mattia.jpg" />
 

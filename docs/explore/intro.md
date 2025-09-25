@@ -18,7 +18,7 @@ One of the main things we aim for is to document everything clearly online. So y
 
 🎥 Name | Type | Location | Lesson
 --- | ---| ---| ---
-[Wild wild county](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Make friends with your neighbours, avoid fear.
+[Wild wild country](https://www.imdb.com/title/tt7768848/)| Video  | India/USA    | Make friends with your neighbours, avoid fear.
 [The experimental city](https://www.imdb.com/title/tt7753990/)| Video   | USA    | Good plans are hard to execute work without local support.
 [Spaceship Earth](https://www.imdb.com/title/tt11394188/)| Video   | USA         | Try things, but take care of your documentation.
 [Tamera in Portugal](https://community.projectkamp.com/academy/research/tamera)| Video   | Portugal    | Example of a place and the challenges of sharing knowledge

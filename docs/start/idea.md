@@ -1,5 +1,5 @@
 ---
-id: share
+id: idea
 title: Share your idea
 ---
 <div class="videocontainer">

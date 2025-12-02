@@ -3,6 +3,13 @@ id: intro
 title: Introduction
 ---
 
+
+
+In containers (see more subchapter)
+- also in vans living
+Help to get water electricity
+
+
 # Setting up a basekamp
 In the early days there is not much on the land, no infrastructure, no kitchen, no shower, no house etc. It's hard to get something going without tools, food and a good sleep. So in order to accelerate this process we setup a Basekamp. The Basekamp was built in our previous place where we had enough tools to prepare ourselves. We put everything in shipping containers and a Van so it's easy to transport to our new location. Once arrived we plug it in to water and electricity and we are good to go. A place that hosts our basic utilities to get us going.
 

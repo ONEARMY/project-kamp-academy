@@ -11,7 +11,10 @@
       "direction": "ltr",
       "htmlLang": "en",
       "calendar": "gregory",
-      "path": "en"
+      "path": "en",
+      "translate": false,
+      "url": "https://community.projectkamp.com",
+      "baseUrl": "/"
     }
   }
 }

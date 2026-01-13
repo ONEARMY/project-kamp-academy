@@ -1,5 +1,4 @@
 {
-  "unversionedId": "support/chat",
   "id": "support/chat",
   "title": "Chat and Support",
   "description": "Project Kamp is part of One Army, a group of people trying to tackle global problems. We use Discord to chat, learn from each other and answer questions. Besides the practical stuff it's also a great place to meet like-minded people and get inspired by other projects. Have a look, join our +10.000 people Discord and get in touch with the community!",
@@ -8,6 +7,7 @@
   "slug": "/support/chat",
   "permalink": "/support/chat",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/support/chat.md",
   "tags": [],
   "version": "current",

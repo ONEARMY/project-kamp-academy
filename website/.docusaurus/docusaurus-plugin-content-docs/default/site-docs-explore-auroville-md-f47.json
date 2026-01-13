@@ -1,5 +1,4 @@
 {
-  "unversionedId": "explore/auroville",
   "id": "explore/auroville",
   "title": "🇮🇳 Auroville in India",
   "description": "🇮🇳 Information Auroville  |     |",
@@ -8,6 +7,7 @@
   "slug": "/explore/auroville",
   "permalink": "/explore/auroville",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/auroville.md",
   "tags": [],
   "version": "current",

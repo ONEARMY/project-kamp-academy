@@ -1,5 +1,4 @@
 {
-  "unversionedId": "guides/research",
   "id": "guides/research",
   "title": "Guidelines + tips for a research (draft)",
   "description": "What is a research?",
@@ -8,6 +7,7 @@
   "slug": "/guides/research",
   "permalink": "/guides/research",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/guides/research.md",
   "tags": [],
   "version": "current",

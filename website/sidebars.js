@@ -2,6 +2,11 @@ module.exports = {
   docs: [
     {
       type: 'doc',
+      id: 'index',
+      label: 'Home',
+    },
+    {
+      type: 'doc',
       id: 'start/intro',
       label: 'Start',
     },

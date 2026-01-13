@@ -10,9 +10,11 @@ Oh and support us on [Patreon](https://www.patreon.com/one_army) if you like wha
 
 <a href="https://cutt.ly/cehDqJxp"><img src="../assets/support/merch.png" width="100%" height="auto" /></a>
 
-<div style={{textAlign: 'center'}}>Download [here](https://cutt.ly/cehDqJxp) if the button doesnt work:
+<div style={{textAlign: 'center'}}>
 
- </div>
+Download [here](https://cutt.ly/cehDqJxp) if the button doesnt work:
+
+</div>
 <br />
 <br />
 <br />

@@ -8,7 +8,7 @@
           "label": "Next",
           "isLast": true,
           "path": "/",
-          "mainDocId": "start/intro",
+          "mainDocId": "index",
           "docs": [
             {
               "id": "basekamp/container",
@@ -55,6 +55,11 @@
               "path": "/guides/research"
             },
             {
+              "id": "index",
+              "path": "/",
+              "sidebar": "docs"
+            },
+            {
               "id": "land/buy",
               "path": "/land/buy",
               "sidebar": "docs"
@@ -94,8 +99,8 @@
           "sidebars": {
             "docs": {
               "link": {
-                "path": "/start/intro",
-                "label": "Start"
+                "path": "/",
+                "label": "Home"
               }
             }
           }

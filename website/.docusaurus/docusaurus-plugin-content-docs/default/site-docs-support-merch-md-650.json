@@ -1,5 +1,4 @@
 {
-  "unversionedId": "support/merch",
   "id": "support/merch",
   "title": "Spikey Booshes Merch",
   "description": "After lots of requests from our community we finally made it! SPIKEY BOOSHES merch. Well sort of, we explain more about it in update #118 . In short we don't like the idea of shipping t-shirts around the world since it has a large environmental impact. (even though it would be a good source of income) We believe there are other creative/less wasteful ways to achieve this. Have a look at fixing.fashion for more information about the issues with the fashion industry and what to do about it. For now we've made an spikey bushes illustration and added a bunch of different files that you can use to stitch, carve, press. Download the package below for free. Share what you made with it on #spikeybooshes",
@@ -8,6 +7,7 @@
   "slug": "/support/merch",
   "permalink": "/support/merch",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/support/merch.md",
   "tags": [],
   "version": "current",

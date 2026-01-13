@@ -1,5 +1,4 @@
 {
-  "unversionedId": "explore/krishna",
   "id": "explore/krishna",
   "title": "🇮🇳 Life in a Krishna temple",
   "description": "🇮🇳 Information Krishna Consciousness  |     |",
@@ -8,6 +7,7 @@
   "slug": "/explore/krishna",
   "permalink": "/explore/krishna",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/krishna.md",
   "tags": [],
   "version": "current",

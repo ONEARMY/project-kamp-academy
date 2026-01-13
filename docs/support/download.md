@@ -15,11 +15,13 @@ Project Kamp is just getting started. The download kit is small and in the early
 <a href="https://github.com/ONEARMY/project-kamp-kit/archive/V0.2.zip">
 <img src="../assets/support/download.png" width="400" height="auto" /></a>
 
-<div style={{textAlign: 'center'}}>Download here if the button doesnt work:
+<div style={{textAlign: 'center'}}>
+
+Download here if the button doesnt work:
 
 https://github.com/ONEARMY/project-kamp-kit/archive/V0.2.zip
 
- </div>
+</div>
 <br />
 <br />
 <br />

@@ -12,7 +12,6 @@ export default {
   "organizationName": "davehakkens",
   "projectName": "project-kamp-academy",
   "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
   "i18n": {
     "defaultLocale": "en",
     "locales": [
@@ -20,6 +19,23 @@ export default {
     ],
     "path": "i18n",
     "localeConfigs": {}
+  },
+  "markdown": {
+    "hooks": {
+      "onBrokenMarkdownLinks": "warn",
+      "onBrokenMarkdownImages": "throw"
+    },
+    "format": "mdx",
+    "mermaid": false,
+    "emoji": true,
+    "mdx1Compat": {
+      "comments": true,
+      "admonitions": true,
+      "headingIds": true
+    },
+    "anchors": {
+      "maintainCase": false
+    }
   },
   "presets": [
     [
@@ -31,10 +47,7 @@ export default {
           "sidebarPath": "E:\\Repos\\project-kamp-academy\\website\\sidebars.js",
           "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/"
         },
-        "blog": {
-          "showReadingTime": true,
-          "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/"
-        },
+        "blog": false,
         "theme": {
           "customCss": "E:\\Repos\\project-kamp-academy\\website\\src\\css\\custom.css"
         }
@@ -273,6 +286,11 @@ export default {
       "disableSwitch": false,
       "respectPrefersColorScheme": false
     },
+    "blog": {
+      "sidebar": {
+        "groupByYear": true
+      }
+    },
     "metadata": [],
     "tableOfContents": {
       "minHeadingLevel": 2,
@@ -280,6 +298,28 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "future": {
+    "v4": {
+      "removeLegacyPostBuildHeadAttribute": false,
+      "useCssCascadeLayers": false
+    },
+    "experimental_faster": {
+      "swcJsLoader": false,
+      "swcJsMinimizer": false,
+      "swcHtmlMinimizer": false,
+      "lightningCssMinimizer": false,
+      "mdxCrossCompilerCache": false,
+      "rspackBundler": false,
+      "rspackPersistentCache": false,
+      "ssgWorkerThreads": false
+    },
+    "experimental_storage": {
+      "type": "localStorage",
+      "namespace": false
+    },
+    "experimental_router": "browser"
+  },
+  "onBrokenAnchors": "warn",
   "onDuplicateRoutes": "warn",
   "staticDirectories": [
     "static"
@@ -292,8 +332,5 @@ export default {
   "stylesheets": [],
   "clientModules": [],
   "titleDelimiter": "|",
-  "noIndex": false,
-  "markdown": {
-    "mermaid": false
-  }
+  "noIndex": false
 };

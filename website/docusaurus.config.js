@@ -19,7 +19,6 @@ const config = {
   projectName: 'project-kamp-academy', // Usually your repo name.
 
   onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
 
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
@@ -27,6 +26,12 @@ const config = {
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
+  },
+
+  markdown: {
+    hooks: {
+      onBrokenMarkdownLinks: 'warn',
+    },
   },
 
   presets: [
@@ -42,12 +47,7 @@ const config = {
           // Remove this to remove the "edit this page" links.
           editUrl: 'https://github.com/ONEARMY/project-kamp-academy/blob/master/',
         },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl: 'https://github.com/ONEARMY/project-kamp-academy/blob/master/',
-        },
+        blog: false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -75,8 +75,8 @@ const config = {
         copyright: `Copyrightnow © ${new Date().getFullYear()} ONE ARMY`,
       },
       prism: {
-        theme: require('prism-react-renderer/themes/github'),
-        darkTheme: require('prism-react-renderer/themes/dracula'),
+        theme: require('prism-react-renderer').themes.github,
+        darkTheme: require('prism-react-renderer').themes.dracula,
       },
       docs: {
         sidebar: {

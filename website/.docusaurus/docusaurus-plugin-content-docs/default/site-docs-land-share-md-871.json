@@ -1,5 +1,4 @@
 {
-  "unversionedId": "land/share",
   "id": "land/share",
   "title": "Share your idea",
   "description": "Starting a community is a big project, you need money, to build houses, to fix legal paperwork etc. It can easily be overwhelming to start. But the good thing is, you are not alone. There are plenty of like minded people out there and the internet is a powerful tool which you can use. And you will need the internet, a diverse skillset of people, engineers, chefs, gardeners, construction workers, lawyers etc. So we advise as a first step to share your intention or idea. Explain what you want to do and what you need. Let others be a part of the journey.",
@@ -8,6 +7,7 @@
   "slug": "/land/share",
   "permalink": "/land/share",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/land/share.md",
   "tags": [],
   "version": "current",

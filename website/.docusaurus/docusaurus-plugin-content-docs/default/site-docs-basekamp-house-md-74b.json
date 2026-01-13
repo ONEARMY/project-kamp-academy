@@ -1,5 +1,4 @@
 {
-  "unversionedId": "basekamp/house",
   "id": "basekamp/house",
   "title": "House in a Van",
   "description": "Specially in the early days of setting up a community it's hectic. Making sure there is water, a workspace is being setup, the kitchen is running and the showers work. Long days, a lot of physical work, it's tiring. You are working on the shared facilities and infrastructure for the community. And you don't want to spend too much time thinking about your individual place to sleep. However a good night rest is crucial. Luckily this is something you can prepare in advance, you can make it easier on yourself by living in a Van. Take your comfort with you.",
@@ -8,6 +7,7 @@
   "slug": "/basekamp/house",
   "permalink": "/basekamp/house",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/basekamp/house.md",
   "tags": [],
   "version": "current",

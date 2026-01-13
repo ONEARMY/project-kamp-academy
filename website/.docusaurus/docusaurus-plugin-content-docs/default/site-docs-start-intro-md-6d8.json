@@ -1,5 +1,4 @@
 {
-  "unversionedId": "start/intro",
   "id": "start/intro",
   "title": "Hello ✋",
   "description": "Good to see you here in our Project Kamp Academy. This is the place where we share our developments and steps forward to setup Project Kamp. How to research, how to buy land, how to prototype etc. But before we go in depth, here is a quick overview where we are currently at.",
@@ -8,6 +7,7 @@
   "slug": "/start/intro",
   "permalink": "/start/intro",
   "draft": false,
+  "unlisted": false,
   "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/start/intro.md",
   "tags": [],
   "version": "current",
@@ -16,6 +16,10 @@
     "title": "Hello ✋"
   },
   "sidebar": "docs",
+  "previous": {
+    "title": "Home",
+    "permalink": "/"
+  },
   "next": {
     "title": "Start exploring",
     "permalink": "/explore/intro"

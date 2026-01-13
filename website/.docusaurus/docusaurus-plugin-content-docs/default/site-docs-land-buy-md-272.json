@@ -1,0 +1,27 @@
+{
+  "unversionedId": "land/buy",
+  "id": "land/buy",
+  "title": "Buying land",
+  "description": "After you have visualised that raw idea in your mind and shared your plan with others it's time for the big thing. Finding a piece of land. In this video we will explain how to do this step by step. From researching which land you need, to actually visiting the land and finally the buying process. Seeing how to set a price, where to look out for and what additional costs you will have. Below we will also go a bit more in depth on some documents that can be useful to use.",
+  "source": "@site/../docs/land/buy.md",
+  "sourceDirName": "land",
+  "slug": "/land/buy",
+  "permalink": "/land/buy",
+  "draft": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/land/buy.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "buy",
+    "title": "Buying land"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Share your idea",
+    "permalink": "/land/share"
+  },
+  "next": {
+    "title": "Introduction",
+    "permalink": "/basekamp/intro"
+  }
+}

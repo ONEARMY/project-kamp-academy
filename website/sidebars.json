@@ -1,10 +1,34 @@
 {
-  "docs": {
-    "Start": ["start/intro"],
-    "1. Explore": ["explore/intro", "explore/tamera", "explore/auroville", "explore/preciousplastic", "explore/krishna" ],
-    "2. Find land ": ["land/share", "land/buy"],
-    "3. Setup Basekamp": ["basekamp/intro", "basekamp/house", "basekamp/container"],
-    "🎥 Update videos": ["updates/video"],
-    "More": ["support/download", "support/merch", "support/chat" ]
-  }
+  "docs": [
+    {
+      "type": "doc",
+      "id": "start/intro",
+      "label": "Start"
+    },
+    {
+      "type": "category",
+      "label": "1. Explore",
+      "items": ["explore/intro", "explore/tamera", "explore/auroville", "explore/preciousplastic", "explore/krishna"]
+    },
+    {
+      "type": "category",
+      "label": "2. Find land",
+      "items": ["land/share", "land/buy"]
+    },
+    {
+      "type": "category",
+      "label": "3. Setup Basekamp",
+      "items": ["basekamp/intro", "basekamp/house", "basekamp/container"]
+    },
+    {
+      "type": "category",
+      "label": "🎥 Update videos",
+      "items": ["updates/video"]
+    },
+    {
+      "type": "category",
+      "label": "More",
+      "items": ["support/download", "support/merch", "support/chat"]
+    }
+  ]
 }

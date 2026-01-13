@@ -19,9 +19,9 @@ The biggest challenge is figuring out which kind of Van and which size. This is 
 
 Van | Type  | Pro | Con|
 --- | ---| ---| ---
-<img src="../assets/move/van-old.jpg" width="100"/> | __Old & Refurbished__ <br> Save materials| - Reuse materials <br> - More durable<br> - Easier to repair  | - More taxes<br> - Fuel intense<br> - Less comfortable   |
-<img src="../assets/move/van-new.jpg" width="100"/> | __New & Efficient__  <br> Save fuel| - Comfortable<br> - Less noise<br> - Easier to find<br> - Less fuel usage | - Support consumption<br> - Harder to repair
-<img src="../assets/move/van-convert.jpg" width="100"/> | __Old & Converted__ <br> Save fuel & material| - Best of both worlds<br> - Reuse materials <br>- Low on fuel   |- Expensive <br> - Very new technology  
+<img src="../assets/move/van-old.jpg" width="100"/> | __Old & Refurbished__ <br /> Save materials| - Reuse materials <br /> - More durable<br /> - Easier to repair  | - More taxes<br /> - Fuel intense<br /> - Less comfortable   |
+<img src="../assets/move/van-new.jpg" width="100"/> | __New & Efficient__  <br /> Save fuel| - Comfortable<br /> - Less noise<br /> - Easier to find<br /> - Less fuel usage | - Support consumption<br /> - Harder to repair
+<img src="../assets/move/van-convert.jpg" width="100"/> | __Old & Converted__ <br /> Save fuel & material| - Best of both worlds<br /> - Reuse materials <br />- Low on fuel   |- Expensive <br /> - Very new technology  
 
 ## Choose your type of Van:
 __Old & Refurbished:__ If you are not going to drive a lot and will spend most of the time in one place this is a good option. You reduce the consumption of new cars and use existing resources as long as you can. But if you will drive a lot, the other options make more sense.
@@ -61,10 +61,10 @@ Solar panels work on low voltage, so do cars. So this makes it quite friendly to
 
 Item | Type of item  | Extra information
 --- | ---| ---
-<img src="../assets/move/van-panel.jpg" width="200" /> | __Solar Panel__ <br> 210 Wp <br>1580x808×35mm|  The solar panel is mounted on the roof. It provides a 44,36V open clamping voltage. In order to regulate the output of a panel and not kill your battery you need a controller.  |
-<img src="../assets/move/van-controller.jpg" width="100"/> | __Charge Controller__  <br> MPPT 75/15<br> 14/24V| A charge controller gathers energy from your solar panel. They come in many shapes and sizes. Higher quality means you maximise your energy-harvest and extend your battery life.
-<img src="../assets/move/van-relais.jpg" width="100"/> | __Intelligent relais__ <br>  Cyrix-ct <br> 12/24V-120A  | This relais makes sure your alternator charges your car battery first, then the household. And it prevents the household battery to take power from the car battery.
-<img src="../assets/move/van-battery.jpg" width="100"/> | __Battery__ <br>  12V 90Ah <br> 2 x in series|  These batteries are specifically for caravans/campers. Having a minimal self-discharge and work well in low energy demands.
+<img src="../assets/move/van-panel.jpg" width="200" /> | __Solar Panel__ <br /> 210 Wp <br />1580x808×35mm|  The solar panel is mounted on the roof. It provides a 44,36V open clamping voltage. In order to regulate the output of a panel and not kill your battery you need a controller.  |
+<img src="../assets/move/van-controller.jpg" width="100"/> | __Charge Controller__  <br /> MPPT 75/15<br /> 14/24V| A charge controller gathers energy from your solar panel. They come in many shapes and sizes. Higher quality means you maximise your energy-harvest and extend your battery life.
+<img src="../assets/move/van-relais.jpg" width="100"/> | __Intelligent relais__ <br />  Cyrix-ct <br /> 12/24V-120A  | This relais makes sure your alternator charges your car battery first, then the household. And it prevents the household battery to take power from the car battery.
+<img src="../assets/move/van-battery.jpg" width="100"/> | __Battery__ <br />  12V 90Ah <br /> 2 x in series|  These batteries are specifically for caravans/campers. Having a minimal self-discharge and work well in low energy demands.
 
 ## Need inspiration?
 
@@ -75,3 +75,4 @@ Have a look at Mattia's van featured in [Update video #5](https://community.proj
 
 
 **💬 If at this point you have any questions, want to meet like minded people or want to share an idea you have for your Van 👉 visit our [community chat](https://discord.com/invite/SSBrzeR) on Discord**
+

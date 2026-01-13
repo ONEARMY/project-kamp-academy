@@ -1,0 +1,27 @@
+{
+  "unversionedId": "basekamp/container",
+  "id": "basekamp/container",
+  "title": "Work in a container",
+  "description": "We will show you how to get your basic utilities ready to move to a piece of land and setup a Basekamp. In this way you can work right away and use all the tools and equipment you need. Not worrying about the basics, this will help to focus on restoring the land as a first priority. We see the Basekamp as a rough but functional starting point to grow from. And we converted our basic utilities into 2 shipping containers! Workspace & Towncenter like in Age of Empires",
+  "source": "@site/../docs/basekamp/container-new.md",
+  "sourceDirName": "basekamp",
+  "slug": "/basekamp/container",
+  "permalink": "/basekamp/container",
+  "draft": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/basekamp/container-new.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "container",
+    "title": "Work in a container"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "House in a Van",
+    "permalink": "/basekamp/house"
+  },
+  "next": {
+    "title": "Latest update",
+    "permalink": "/updates/"
+  }
+}

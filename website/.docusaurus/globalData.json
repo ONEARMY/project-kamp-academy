@@ -1,0 +1,107 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "start/intro",
+          "docs": [
+            {
+              "id": "basekamp/container",
+              "path": "/basekamp/container",
+              "sidebar": "docs"
+            },
+            {
+              "id": "basekamp/house",
+              "path": "/basekamp/house",
+              "sidebar": "docs"
+            },
+            {
+              "id": "basekamp/intro",
+              "path": "/basekamp/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "explore/auroville",
+              "path": "/explore/auroville",
+              "sidebar": "docs"
+            },
+            {
+              "id": "explore/intro",
+              "path": "/explore/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "explore/krishna",
+              "path": "/explore/krishna",
+              "sidebar": "docs"
+            },
+            {
+              "id": "explore/preciousplastic",
+              "path": "/explore/preciousplastic",
+              "sidebar": "docs"
+            },
+            {
+              "id": "explore/tamera",
+              "path": "/explore/tamera",
+              "sidebar": "docs"
+            },
+            {
+              "id": "guides/research",
+              "path": "/guides/research"
+            },
+            {
+              "id": "land/buy",
+              "path": "/land/buy",
+              "sidebar": "docs"
+            },
+            {
+              "id": "land/share",
+              "path": "/land/share",
+              "sidebar": "docs"
+            },
+            {
+              "id": "start/intro",
+              "path": "/start/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "support/chat",
+              "path": "/support/chat",
+              "sidebar": "docs"
+            },
+            {
+              "id": "support/download",
+              "path": "/support/download",
+              "sidebar": "docs"
+            },
+            {
+              "id": "support/merch",
+              "path": "/support/merch",
+              "sidebar": "docs"
+            },
+            {
+              "id": "updates/video",
+              "path": "/updates/",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/start/intro",
+                "label": "Start"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

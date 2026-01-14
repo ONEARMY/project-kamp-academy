@@ -1,7 +1,7 @@
 {
   "id": "explore/auroville",
   "title": "🇮🇳 Auroville in India",
-  "description": "🇮🇳 Information Auroville  |     |",
+  "description": "| 🇮🇳 Information Auroville |                                                                            |",
   "source": "@site/../docs/explore/auroville.md",
   "sourceDirName": "explore",
   "slug": "/explore/auroville",
@@ -17,7 +17,7 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "🇵🇹 Tamera in Portugal",
+    "title": "Tamera in Portugal",
     "permalink": "/explore/tamera"
   },
   "next": {

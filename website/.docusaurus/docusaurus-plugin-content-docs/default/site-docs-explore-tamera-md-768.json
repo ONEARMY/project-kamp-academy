@@ -1,7 +1,7 @@
 {
   "id": "explore/tamera",
-  "title": "🇵🇹 Tamera in Portugal",
-  "description": "🇵🇹 Information Tamera|     |",
+  "title": "Tamera in Portugal",
+  "description": "| 🇵🇹 Information Tamera  |                                           |",
   "source": "@site/../docs/explore/tamera.md",
   "sourceDirName": "explore",
   "slug": "/explore/tamera",
@@ -13,7 +13,7 @@
   "version": "current",
   "frontMatter": {
     "id": "tamera",
-    "title": "🇵🇹 Tamera in Portugal"
+    "title": "Tamera in Portugal"
   },
   "sidebar": "docs",
   "previous": {

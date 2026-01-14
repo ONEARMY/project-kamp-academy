@@ -8,7 +8,7 @@ After lots of requests from our community we finally made it! **SPIKEY BOOSHES**
 
 Oh and support us on [Patreon](https://www.patreon.com/one_army) if you like what we do ❤️
 
-<a href="https://cutt.ly/cehDqJxp"><img src="../assets/support/merch.png" width="100%" height="auto" /></a>
+<a href="https://cutt.ly/cehDqJxp"><img src="/assets/support/merch.png" width="100%" height="auto" /></a>
 
 <div style={{textAlign: 'center'}}>
 

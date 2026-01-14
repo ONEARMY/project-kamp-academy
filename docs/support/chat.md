@@ -15,4 +15,4 @@ Project Kamp is part of [One Army](https://onearmy.earth), a group of people try
 <br />
 <br />
 
-![Discord](../assets/support/onearmy-banner.png)
+![Discord](/assets/support/onearmy-banner.png)

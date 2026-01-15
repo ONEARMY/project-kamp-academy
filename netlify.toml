@@ -1,0 +1,6 @@
+[build]
+  command = "cd website && npm install && npm run build"
+  publish = "website/build"
+
+[build.environment]
+  NODE_VERSION = "18"

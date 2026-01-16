@@ -1,0 +1,19 @@
+{
+  "id": "guides/research",
+  "title": "Guidelines + tips for a research (draft)",
+  "description": "What is a research?",
+  "source": "@site/../docs/guides/research.md",
+  "sourceDirName": "guides",
+  "slug": "/guides/research",
+  "permalink": "/guides/research",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/guides/research.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "research",
+    "title": "Guidelines + tips for a research (draft)",
+    "sidebar_label": "Add Research"
+  }
+}

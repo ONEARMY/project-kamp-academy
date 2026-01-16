@@ -1,0 +1,27 @@
+{
+  "id": "explore/krishna",
+  "title": "🇮🇳 Life in a Krishna temple",
+  "description": "| 🇮🇳 Information Krishna Consciousness |                                                               |",
+  "source": "@site/../docs/explore/krishna.md",
+  "sourceDirName": "explore",
+  "slug": "/explore/krishna",
+  "permalink": "/explore/krishna",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/krishna.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "krishna",
+    "title": "🇮🇳 Life in a Krishna temple"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🇳🇱 Precious Plastic V4",
+    "permalink": "/explore/preciousplastic"
+  },
+  "next": {
+    "title": "Share your idea",
+    "permalink": "/land/share"
+  }
+}

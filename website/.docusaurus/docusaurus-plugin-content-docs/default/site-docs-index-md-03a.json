@@ -1,0 +1,24 @@
+{
+  "id": "index",
+  "title": "Project Kamp Academy",
+  "description": "Good to see you here in our Project Kamp Academy. This is the place where we share our developments and steps forward to setup Project Kamp. How to research, how to buy land, how to prototype etc. But before we go in depth, here is a quick overview where we are currently at.",
+  "source": "@site/../docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/index.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Project Kamp Academy",
+    "slug": "/"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "Start",
+    "permalink": "/start/intro"
+  }
+}

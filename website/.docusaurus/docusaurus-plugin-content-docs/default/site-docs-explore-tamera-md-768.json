@@ -1,0 +1,27 @@
+{
+  "id": "explore/tamera",
+  "title": "Tamera in Portugal",
+  "description": "| 🇵🇹 Information Tamera  |                                           |",
+  "source": "@site/../docs/explore/tamera.md",
+  "sourceDirName": "explore",
+  "slug": "/explore/tamera",
+  "permalink": "/explore/tamera",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/tamera.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "tamera",
+    "title": "Tamera in Portugal"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Start exploring",
+    "permalink": "/explore/intro"
+  },
+  "next": {
+    "title": "🇮🇳 Auroville in India",
+    "permalink": "/explore/auroville"
+  }
+}

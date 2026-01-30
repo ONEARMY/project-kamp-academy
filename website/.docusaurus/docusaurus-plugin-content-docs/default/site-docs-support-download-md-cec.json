@@ -1,0 +1,28 @@
+{
+  "id": "support/download",
+  "title": "Download Kit",
+  "description": "Project Kamp is just getting started. The download kit is small and in the early stages. But hey, you got to start somewhere. So here you can download everything we got so far. Thank you for seeing potential this early on, keeps us motivated to continue development! :)",
+  "source": "@site/../docs/support/download.md",
+  "sourceDirName": "support",
+  "slug": "/support/download",
+  "permalink": "/support/download",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/support/download.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "download",
+    "title": "Download Kit",
+    "sidebar_label": "📦 Download-kit"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Latest update",
+    "permalink": "/updates/"
+  },
+  "next": {
+    "title": "👕 Merch",
+    "permalink": "/support/merch"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "explore/intro",
+  "title": "Start exploring",
+  "description": "Exploring what is already out there is an important step for starting to setup your own community. There are people all over the world who have already been doing it for years. There is already a lot of technology, structures and system figured out along the way. That said the downside is that very little of this information can be found online, it's a lot in the minds of older generation.",
+  "source": "@site/../docs/explore/intro.md",
+  "sourceDirName": "explore",
+  "slug": "/explore/intro",
+  "permalink": "/explore/intro",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/intro.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "intro",
+    "title": "Start exploring"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Start",
+    "permalink": "/start/intro"
+  },
+  "next": {
+    "title": "Tamera in Portugal",
+    "permalink": "/explore/tamera"
+  }
+}

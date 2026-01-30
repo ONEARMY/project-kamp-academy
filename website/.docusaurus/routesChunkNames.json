@@ -1,0 +1,126 @@
+{
+  "/__docusaurus/debug-5ff": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/config-5ba": {
+    "__comp": "__comp---theme-debug-config-23-a-2ff",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/content-a2b": {
+    "__comp": "__comp---theme-debug-contentba-8-ce7",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    },
+    "__props": "__props---docusaurus-debug-content-3-c-0-be2"
+  },
+  "/__docusaurus/debug/globalData-c3c": {
+    "__comp": "__comp---theme-debug-global-dataede-0fa",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/metadata-156": {
+    "__comp": "__comp---theme-debug-site-metadata-68-e-3d4",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/registry-88c": {
+    "__comp": "__comp---theme-debug-registry-679-501",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/__docusaurus/debug/routes-000": {
+    "__comp": "__comp---theme-debug-routes-946-699",
+    "__context": {
+      "plugin": "plugin---docusaurus-debugb-38-ad3"
+    }
+  },
+  "/-959": {
+    "__comp": "__comp---theme-docs-root-5-e-9-0b6",
+    "__context": {
+      "plugin": "plugin---aba-d70"
+    }
+  },
+  "/-b1d": {
+    "__comp": "__comp---theme-doc-version-roota-7-b-5de",
+    "__props": "__props---22-d-307"
+  },
+  "/-86b": {
+    "__comp": "__comp---theme-doc-roota-94-67a"
+  },
+  "/basekamp/container-c9d": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basekamp-container-0-d-1-297"
+  },
+  "/basekamp/house-383": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basekamp-house-74-b-5ed"
+  },
+  "/basekamp/intro-631": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basekamp-intro-4-ba-b44"
+  },
+  "/explore/auroville-a54": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---explore-aurovillef-47-d4d"
+  },
+  "/explore/intro-684": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---explore-intro-559-713"
+  },
+  "/explore/krishna-c08": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---explore-krishna-345-f89"
+  },
+  "/explore/preciousplastic-eca": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---explore-preciousplastic-53-e-d87"
+  },
+  "/explore/tamera-25e": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---explore-tamera-768-b06"
+  },
+  "/guides/research-166": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---guides-researchb-6-b-9ac"
+  },
+  "/land/buy-b02": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---land-buy-272-7ad"
+  },
+  "/land/share-139": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---land-share-871-8be"
+  },
+  "/start/intro-edc": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---start-intro-6-d-8-cd1"
+  },
+  "/support/chat-fb1": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---support-chat-9-db-9e3"
+  },
+  "/support/download-9d6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---support-downloadcec-c90"
+  },
+  "/support/merch-ce6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---support-merch-650-4e7"
+  },
+  "/updates/-c50": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---updates-d-6-e-e4e"
+  },
+  "/-3a6": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---03-a-a23"
+  }
+}

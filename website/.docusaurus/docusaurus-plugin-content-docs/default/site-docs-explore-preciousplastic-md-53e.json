@@ -1,0 +1,27 @@
+{
+  "id": "explore/preciousplastic",
+  "title": "🇳🇱 Precious Plastic V4",
+  "description": "| 🇳🇱 Information Precious Plastic V4 |                                                             |",
+  "source": "@site/../docs/explore/preciousplastic.md",
+  "sourceDirName": "explore",
+  "slug": "/explore/preciousplastic",
+  "permalink": "/explore/preciousplastic",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/explore/preciousplastic.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "preciousplastic",
+    "title": "🇳🇱 Precious Plastic V4"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "🇮🇳 Auroville in India",
+    "permalink": "/explore/auroville"
+  },
+  "next": {
+    "title": "🇮🇳 Life in a Krishna temple",
+    "permalink": "/explore/krishna"
+  }
+}

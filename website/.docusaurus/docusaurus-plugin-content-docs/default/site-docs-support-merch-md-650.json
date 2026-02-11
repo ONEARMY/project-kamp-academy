@@ -15,14 +15,5 @@
     "id": "merch",
     "title": "Spikey Booshes Merch",
     "sidebar_label": "👕 Merch"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "📦 Download-kit",
-    "permalink": "/support/download"
-  },
-  "next": {
-    "title": "💬 Chat",
-    "permalink": "/support/chat"
   }
 }

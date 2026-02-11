@@ -1,6 +1,6 @@
 ---
 id: buy
-title: Buying land
+title: 2. Getting land
 ---
 
 <div class="videocontainer">

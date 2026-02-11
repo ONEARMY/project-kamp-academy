@@ -15,14 +15,5 @@
     "id": "download",
     "title": "Download Kit",
     "sidebar_label": "📦 Download-kit"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Latest update",
-    "permalink": "/updates/"
-  },
-  "next": {
-    "title": "👕 Merch",
-    "permalink": "/support/merch"
   }
 }

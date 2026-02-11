@@ -42,30 +42,34 @@
       "plugin": "plugin---docusaurus-debugb-38-ad3"
     }
   },
-  "/-959": {
+  "/-6ff": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---aba-d70"
     }
   },
-  "/-b1d": {
+  "/-e72": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---22-d-307"
   },
-  "/-86b": {
+  "/-e31": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
-  "/basekamp/container-c9d": {
+  "/basekamp/container-097": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---basekamp-container-0-d-1-297"
   },
-  "/basekamp/house-383": {
+  "/basekamp/house-5b9": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---basekamp-house-74-b-5ed"
   },
   "/basekamp/intro-631": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---basekamp-intro-4-ba-b44"
+  },
+  "/basekamp/run-b4c": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---basekamp-runbec-628"
   },
   "/explore/auroville-a54": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -95,27 +99,27 @@
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---land-buy-272-7ad"
   },
-  "/land/share-139": {
+  "/land/share-0ce": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---land-share-871-8be"
   },
-  "/start/intro-edc": {
+  "/start/intro-32d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---start-intro-6-d-8-cd1"
   },
-  "/support/chat-fb1": {
+  "/support/chat-a80": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---support-chat-9-db-9e3"
   },
-  "/support/download-9d6": {
+  "/support/download-378": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---support-downloadcec-c90"
   },
-  "/support/merch-ce6": {
+  "/support/merch-7bb": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---support-merch-650-4e7"
   },
-  "/updates/-c50": {
+  "/updates/-97c": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---updates-d-6-e-e4e"
   },

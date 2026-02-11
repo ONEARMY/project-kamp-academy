@@ -1,7 +1,7 @@
 {
   "id": "index",
   "title": "Project Kamp Academy",
-  "description": "Good to see you here in our Project Kamp Academy. This is the place where we share our developments and steps forward to setup Project Kamp. How to research, how to buy land, how to prototype etc. But before we go in depth, here is a quick overview where we are currently at.",
+  "description": "Good to see you here in our Project Kamp Academy. This is the place where we try and help you build your own world. How to get a land, what infrastructure to build, how to assemble a team etc. We share tutorial videos and information that help you guide thought the process step by step. Two important notes before we start.",
   "source": "@site/../docs/index.md",
   "sourceDirName": ".",
   "slug": "/",
@@ -18,7 +18,7 @@
   },
   "sidebar": "docs",
   "next": {
-    "title": "Start",
-    "permalink": "/start/intro"
+    "title": "2. Get Land",
+    "permalink": "/land/buy"
   }
 }

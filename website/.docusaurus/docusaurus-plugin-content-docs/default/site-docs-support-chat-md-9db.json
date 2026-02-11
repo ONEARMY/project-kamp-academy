@@ -15,10 +15,5 @@
     "id": "chat",
     "title": "Chat and Support",
     "sidebar_label": "💬 Chat"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "👕 Merch",
-    "permalink": "/support/merch"
   }
 }

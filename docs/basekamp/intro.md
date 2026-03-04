@@ -35,11 +35,13 @@ When you move to a land, infrastructure is probably limited. Building from scrat
 Below you can see how we divided our containers, whats inside and download the drawings, 3D models and schematics. 
 
 
+<img src="/assets/build/container-workspace.jpg"/>
 
-<img src="/assets/build/kitchen-workspace.png"/>
+#### Whats inside
 
 | Kitchen              | Workspace             |
 | ----------------------- | --------------------- |
+|<img src="/assets/build/download-kitchen.png"/>|<img src="/assets/build/download-workspace.png"/>|
 | 🍳 Cooking Stoves       | 🛠 Tools               |
 | 👕 Washing Machine      | 🔩 Bolts & nuts       |
 | 🚿 Shower               | 📐 Metal Lathe        |
@@ -49,12 +51,11 @@ Below you can see how we divided our containers, whats inside and download the d
 | 🍫 Bulk Food            | ⚡️ Electronics       |
 | 🎥 Camera equipment     | ⛑ Safety equipment    |
 | 🔥 Hot water            |                       |
-|<img src="/assets/build/download-kitchen.png"/>|<img src="/assets/build/download-workspace.png"/>|
-| Download Kitchen drawings| Download Workspace drawings"
+| [Download Kitchen drawings](https://community.projectkamp.com/library?sort=MostUsefulLastWeek)| [Download Workspace drawings](https://community.projectkamp.com/library?sort=MostUsefulLastWeek)"
 
-<img src="/assets/build/container-workspace.jpg"/>
+
 :::note[Containers is just an option]
-As you can see we like containers and see benifits of using them at this stage in the process. But they might not be suited for all climates or needs adjustmeents, like insulation for colder areas.
+As you can see we like containers and see benifits of using them at this stage in the process. But they might not be suited for all climates or needs adjustments, like insulation for colder areas.
 :::
 
 
@@ -89,10 +90,10 @@ We use Solar for our setup as its an easy score in sunny Portugal. You can find 
 Make sure to document your setup so others can learn from it
 |                   |                   |
 |-------------------|-------------------|
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Grid** <br/>Pro: Quick, cheap setup and can scale. <br/>Con: Little control over the energy supplier and source. 
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Solar** <br/>Pro: Renewable energy source, well developed and reliable, low usage costs. Good for sunny summer days. <br/>Con:Higher investment upfront, batteries and  needs replacement overtime, hard to operate in non-sunny days and regions.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Wind** <br/>Pro: Renewable energy source, can harvest energy with low-tech setup (compared to solar), good for windy winter days. <br/>Con: Hard to run fully on wind, unstable source in most regions. 
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Other (Hydro)** <br/>Pro: Renewable energy source, predictable/consistent output, good in rainy days when water flows. <br/>Con: Experimental, hard to scale, need to have water flowing on the land.
+|<img src="/assets/build/icon/electricity-grid.png" width="100px"/> |  **Grid** <br/>Pro: Quick, cheap setup and can scale. <br/>Con: Little control over the energy supplier and source. 
+|<img src="/assets/build/icon/electricity-solar.png" width="100px"/> |  **Solar** <br/>Pro: Renewable energy source, well developed and reliable, low usage costs. Good for sunny summer days. <br/>Con:Higher investment upfront, batteries and  needs replacement overtime, hard to operate in non-sunny days and regions.
+|<img src="/assets/build/icon/electricity-wind.png" width="100px"/> |  **Wind** <br/>Pro: Renewable energy source, can harvest energy with low-tech setup (compared to solar), good for windy winter days. <br/>Con: Hard to run fully on wind, unstable source in most regions. 
+|<img src="/assets/build/icon/electricity-other.png" width="100px"/> |  **Other (Hydro)** <br/>Pro: Renewable energy source, predictable/consistent output, good in rainy days when water flows. <br/>Con: Experimental, hard to scale, need to have water flowing on the land.
 
 
 
@@ -109,10 +110,10 @@ Ask neighbours around you how they used to get water in the past. There might be
 
 |                   |                   |
 |-------------------|-------------------|
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Flowing water** <br/>Pro: Easy to catch, not much infrastructure needed to get it <br/>Con: Unstable, directly exposed to enviroments making it easy to be contaminated and depends on rainfall 
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Surface water** <br/>Pro: relativly easy to get <br/>Con: Not always available, needs filtering, can get polluted upstream
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Ground water** <br/> Pro: Tends to be quite clean, consistantly available<br/>Con:Could dry up dry periods or get contaminated 
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Deepground** <br/>Pro: Cleanest water source, probably available all year around <br/>Con: More complex to setup, bigger intervention in the ecosystem.
+|<img src="/assets/build/icon/water-flow.png" width="100px"/> |  **Flowing water** <br/>Pro: Easy to catch, not much infrastructure needed to get it <br/>Con: Unstable, directly exposed to enviroments making it easy to be contaminated and depends on rainfall 
+|<img src="/assets/build/icon/water-rain.png" width="100px"/> |  **Surface water** <br/>Pro: relativly easy to get <br/>Con: Not always available, needs filtering, can get polluted upstream
+|<img src="/assets/build/icon/water-well.png" width="100px"/> |  **Ground water** <br/> Pro: Tends to be quite clean, consistantly available<br/>Con:Could dry up dry periods or get contaminated 
+|<img src="/assets/build/icon/water-deep.png" width="100px"/> |  **Deepground** <br/>Pro: Cleanest water source, probably available all year around <br/>Con: More complex to setup, bigger intervention in the ecosystem.
 
 
 ### Internet
@@ -125,20 +126,20 @@ By far the easiest is being connected to the grid, if not you can ask local prov
 
 |                   |                   |
 |-------------------|-------------------|
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Cable** <br/>Pro: Most reliable and fastets option, easy setup, can scale.<br/>Con: Not always available in remote areas
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Cellular (4G/5G from Simcard)** <br/>Pro: Can reach remote areas, easy to setup <br/>Con: Not always available, scaling is hard.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Sattilite** <br/>Pro: Available everywhere on earth, fast <br/>Con: Not many good suppliers available, costly.
+|<img src="/assets/build/icon/internet-cable.png" width="100px"/> |  **Cable** <br/>Pro: Most reliable and fastets option, easy setup, can scale.<br/>Con: Not always available in remote areas
+|<img src="/assets/build/icon/internet-sim.png" width="100px"/> |  **Cellular (4G/5G from Simcard)** <br/>Pro: Can reach remote areas, easy to setup <br/>Con: Not always available, scaling is hard.
+|<img src="/assets/build/icon/internet-sat.png" width="100px"/> |  **Sattilite** <br/>Pro: Available everywhere on earth, fast <br/>Con: Not many good suppliers available, costly.
 
 ### Toilet
 At first glance not a very interesting topic to work on but actually quite nice to find a good system. Here a few options. You can download drawings of the toilet we build in the LIbrary. We also have a research topic to learn more about the processins
 
 |                   |                   |
 |-------------------|-------------------|
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Nothing** <br/>Pro: Easy to setup ;) <br/>Con: Hard to scale with many people
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Sewage** <br/>Pro: Easy to setup, scalable, legally complient <br/>Con: Not available everywhere, hard to distribute in many areas of the land
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Septic tank** <br/>Pro: In many areas a legal alternative for sewage, easy to scale. <br/>Con: Need to install big tank, resources of poop are unused.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Hole** <br/>Pro: Easy to setup <br/>Con: Can get smelly, waste of resources and hard to scale.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Compost toilet** <br/>Pro: Can be setup anywhere, compost as a byproduct <br/>Con: Can get smelly and needs extra step of processing
+|<img src="/assets/build/icon/toilet-poop.png" width="100px"/> |  **Nothing** <br/>Pro: Easy to setup ;) <br/>Con: Hard to scale with many people
+|<img src="/assets/build/icon/toilet-sewage.png" width="100px"/> |  **Sewage** <br/>Pro: Easy to setup, scalable, legally complient <br/>Con: Not available everywhere, hard to distribute in many areas of the land
+|<img src="/assets/build/icon/toilet-septic.png" width="100px"/> |  **Septic tank** <br/>Pro: In many areas a legal alternative for sewage, easy to scale. <br/>Con: Need to install big tank, resources of poop are unused.
+|<img src="/assets/build/icon/toilet-hole.png" width="100px"/> |  **Hole** <br/>Pro: Easy to setup <br/>Con: Can get smelly, waste of resources and hard to scale.
+|<img src="/assets/build/icon/toilet-compost.png" width="100px"/> |  **Compost toilet** <br/>Pro: Can be setup anywhere, compost as a byproduct <br/>Con: Can get smelly and needs extra step of processing
 
 
 
@@ -146,10 +147,10 @@ At first glance not a very interesting topic to work on but actually quite nice 
 Having running water is great Having hot water is even better. There are a few fews to do this. Spoiler alert. Probably most energy you will consume is in heating water. 
 |                   |                   |
 |-------------------|-------------------|
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Wood** <br/>Pro: Basic technique, uses renewable source (wood from the land) <br/>Con: Quite some work to run every day, need to plan ahead to heat.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Gas** <br/>Pro: Can turn it on on demand, easy to install <br/>Con: Non renwable source (fossil fuel)
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Electric** <br/>Pro: Can run on solar (renawble source) <br/>Con: Takes a lot of electricity, hard to run it in winter days when you need heat but have little sun.
-|<img src="/assets/build/icon-placeholder.png" width="100px"/> |  **Direct Sun** <br/>Pro: Lowtech technique  <br/>Con: You depend on the sun, hard in winter.
+|<img src="/assets/build/icon/heat-wood.png" width="100px"/> |  **Wood** <br/>Pro: Basic technique, uses renewable source (wood from the land) <br/>Con: Quite some work to run every day, need to plan ahead to heat.
+|<img src="/assets/build/icon/heat-gas.png" width="100px"/> |  **Gas** <br/>Pro: Can turn it on on demand, easy to install <br/>Con: Non renwable source (fossil fuel)
+|<img src="/assets/build/icon/heat-electric.png" width="100px"/> |  **Electric** <br/>Pro: Can run on solar (renawble source) <br/>Con: Takes a lot of electricity, hard to run it in winter days when you need heat but have little sun.
+|<img src="/assets/build/icon/heat-direct.png" width="100px"/> |  **Direct Sun** <br/>Pro: Lowtech technique  <br/>Con: You depend on the sun, hard in winter.
 
 :::tip
 A combination of methods can be effective in early stages. To reduce fossil fuels but make sure it available. For instance direct Sun with Gas heater as a backup
@@ -176,13 +177,14 @@ Living in Basekamp is basic. Everything is setup as temporary structures and a l
 Temporary structures are essential to start. But we haven't found a real good sustianble temporary living setup. Most of the movable things wear out fast and contain much more of plastics and synthetics. Aim to build durable long lasting housing in the long term
 :::
 
+<img src="/assets/build/basekamp.jpg"/>
+
 ------------------------------------------------------------
 
 ## Basekamp Extension Pack
 
 The above Basekamp setup is great for about 10-15 people. There are a few things to do to scale it up for 25 people. Below an overview of the improvements, and download the Basekamp Extension files [here](https://linktolibrary.com/)
 
-<img src="/assets/build/extension-pack.png"/>
 
 * Toilet: Additional composting toilet with improved design and processing system
 * Compost: Add a composting system for food waste processing, reducing smell and flies.
@@ -190,6 +192,9 @@ The above Basekamp setup is great for about 10-15 people. There are a few things
 * Storage: Add a storage container with roof for materials, tools, and waste managment.
 * Shelter: Larger, solid roof for workspace providing better protection and usability.
 
+
+
+<img src="/assets/build/extension-pack.png"/>
 
 
 

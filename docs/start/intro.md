@@ -22,7 +22,7 @@ Good to see you here in our Project Kamp Academy. This is the place where we try
 With that out of the way. Lets get started. First Important question.
 
 
-# Why start this?
+## Why start this?
 
 Our goal is to help you get started to build a world that has less negative impact on the environment and make you more in charge of decisions.A long term palce for future generations of mankind. We believe that humans know best what is right for their local setting. They can create a positive impact if they have good knowledge and power to make decisions. Nowadays both are hard to find. 
 
@@ -33,7 +33,7 @@ Our goal is to help you get started to build a world that has less negative impa
 
 
 
-# Why a community?
+## Why a community?
 
 Organising ourselves in groups or communities can break the two core issues from above. But it also enables many other things: 
 
@@ -48,7 +48,7 @@ Organising ourselves in groups or communities can break the two core issues from
 
 
 
-## Explore whats there
+## Explore whats already done
 
 Communities have been around for many years. Its only been in the last 100-200 years that we started living more individually. But even nowadays there are a few communities on earth that stood the test of time. The downside is their knowledge is not easy accessible. So we added a section in the academy called ‘explore’ where you can find more information on communities. Let us know here (question module) if you know other awesome communities.
 

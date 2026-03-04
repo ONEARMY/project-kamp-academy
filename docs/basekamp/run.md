@@ -60,6 +60,7 @@ Screening people can be a difficult thing, but your quickly learn and improve. I
 Once You find the right people its time to onboard and intergrate them in your project!
 This can be quite a tiring process if you dont have a good structure for it. Here a few things we recommend
 
+
 1. Send important information upfront: Its useful to send people some useful information upfront before they arrive so they can prepare back home. Practical things like how to get there, classic things people forget(rain gear or biodegradable soaps)
 Besides this we also send a disclaimer stating people come at their own risk and will be on camera. All of this is good to send upfront as people still have a change to opt-out (actually never happened in our case)
 2. Calender: This is useful to keep the overview of who comes when and until what time they stay. Specially if many people come and go its easy to loose track of this
@@ -78,6 +79,8 @@ Bonus: Setup a sytem that is easy for people to onboard eachother. Many people f
 
 
 ## How to organise work
+
+<img src="/assets/run/talk.jpg"/>
 
 Getting work done is a key thing for Basekamp. There is lots of work to do in many areas. In the beginning you might be able to handle this with one small team. But as the project grows its good to distribute the responsibility of areas. It helps to organise in different groups. This allows people to build teams, develop specific skills, go deeper in their knowledge and hold responsibility of certain areas.
 
@@ -153,10 +156,12 @@ What this Pod does:
 
 Basekamp helps people work together on long-term projects while enjoying the process. With many things to build and land to regenerate, clear systems keep the space productive, safe, and enjoyable.
 
+
 ### Guidelines 
 Everyone comes from different backgrounds. Its useful to have shared values and guidelines clearly written. It gives people orientation and helps to align on expectations. Examples of guidelines: Vegan meals during the week, Project car is not used for private rides, no loud noises in the weekend. 
+<img src="/assets/run/documents.png"/>
 
-::tip
+:::tip
 If you want to see our guidelines as a reference you can find them in download kit
 :::
 
@@ -177,7 +182,7 @@ Everyone has different habits and stays for different periods. Clear systems ens
 - Tasks include fixing chairs, stairs, or cleaning worn areas.
 - Everyone picks a task, keeps the space functional, and creates a sense of accomplishment.
 
-
+<img src="/assets/run/board.png"/>
 
 ### Life/Work Balance 
 Balance between work and leisure is essential to maintain energy and happiness.
@@ -219,7 +224,7 @@ Early days bring constant challenges, so it’s important to stay open, learn, a
 
 
 
-# Costs
+# Costs (in progress)
 
 
 

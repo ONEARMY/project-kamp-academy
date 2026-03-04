@@ -11,7 +11,7 @@ title: 2. Getting land
 
 After you have visualised that [raw idea](https://community.projectkamp.com/academy/land/share) in your mind and shared your plan with others it's time for the big thing. Finding a piece of land. In this video we will explain how to do this step by step. From researching which land you need, to actually visiting the land and finally the buying process. Seeing how to set a price, where to look out for and what additional costs you will have. Below we will also go a bit more in depth on some documents that can be useful to use.
 
-# Documents overview
+## Documents overview
 
 When buying land you will enter the world of documents. Documents you legally need to purchase land or documents that just make it easier to scout for lands. This is what we needed for our land in Portugal:
 
@@ -24,7 +24,7 @@ When buying land you will enter the world of documents. Documents you legally ne
 | Property Tax       | Mandatory   | Calculation of the taxes you pay         | Made by Notary                   |
 | Transfer ownership | Mandatory   | Final agreement between buyer and seller | Made by Notary                   |
 
-# Project Plan
+## Project Plan
 
 We realised that it was helpful to have a document with information about the project, plans and needs, as a PDF to send around, or to print out and have it with us on our trips.
 You can have a look at the document we made in our [download kit](https://github.com/ONEARMY/project-kamp-kit/archive/V0.1.zip) to get some ideas, here we’ll just go through the main points you might want to include:
@@ -50,7 +50,7 @@ Last point: Don’t forget to add your contact (website, email, phone number) to
 
 > ⭐️ **Tip:** Be aware you are entering as an outsider to a new region. This will affect their lives and routines. Specially if you are doing something a bit out of the box like a community. Try to have a chat with local people, the neighbours and the municipality. See if they like your plan. It's good to have them onboard for the long term.
 
-# Checklist for visiting lands
+## Checklist for visiting lands
 
 When visiting land you will have a lot of information thrown at you. Specially after a long day of visiting various locations it becomes hard to distinguish them from each other. And sometimes you are overwhelmed when visiting a piece of land and you simply forget to ask the right critical questions. For that reason we made a checklist, a list you take with you to every location. It answers basic questions like:
 

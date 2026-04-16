@@ -10,7 +10,7 @@ title: 3. Build a Basekamp
 
 # Build a basekamp
 
-In the early days there is not much on the land, no infrastructure, no kitchen, no shower, no house etc. It's hard to get something going without tools, food and a good sleep. So in order to accelerate this process we setup a Basekamp. 
+In the early days there is not much on the land, no infrastructure, no kitchen, no shower, no house etc. It's hard to get something going without tools, food and a good sleep. So in order to accelerate this process we setup a Basekamp.. 
 
 
 ---

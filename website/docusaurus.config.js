@@ -80,32 +80,6 @@ const config = {
         },
       },
     }),
-
-  // Fix ProgressPlugin compatibility with Node 22 / newer Webpack
-  plugins: [
-    function customWebpackPlugin() {
-      return {
-        name: 'custom-webpack-plugin',
-        configureWebpack() {
-          return {
-            plugins: [
-              {
-                apply: (compiler) => {
-                  // Remove incompatible ProgressPlugin configurations
-                  compiler.options.plugins = compiler.options.plugins.filter((plugin) => {
-                    if (plugin && plugin.constructor.name === 'ProgressPlugin') {
-                      return false;
-                    }
-                    return true;
-                  });
-                },
-              },
-            ],
-          };
-        },
-      };
-    },
-  ],
 };
 
 module.exports = config;

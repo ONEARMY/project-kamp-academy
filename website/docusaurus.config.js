@@ -92,14 +92,12 @@ const config = {
               {
                 apply: (compiler) => {
                   // Remove incompatible ProgressPlugin configurations
-                  compiler.options.plugins = compiler.options.plugins.filter(
-                    (plugin) => {
-                      if (plugin && plugin.constructor.name === 'ProgressPlugin') {
-                        return false;
-                      }
-                      return true;
+                  compiler.options.plugins = compiler.options.plugins.filter((plugin) => {
+                    if (plugin && plugin.constructor.name === 'ProgressPlugin') {
+                      return false;
                     }
-                  );
+                    return true;
+                  });
                 },
               },
             ],

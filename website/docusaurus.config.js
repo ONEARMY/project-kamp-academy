@@ -61,11 +61,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/undraw_online.svg',
       navbar: {
-        title: 'Project Kamp Community',
-        logo: {
-          alt: 'Project Kamp Logo',
-          src: 'img/favicon.ico',
-        },
+        title: '',
         items: [
           // Add navbar items as needed
         ],

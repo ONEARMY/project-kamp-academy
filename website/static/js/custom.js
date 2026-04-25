@@ -198,7 +198,7 @@ function passLinkClicksToParent() {
         ev.preventDefault();
         const linkElement = ev.target.closest('a');
         if(linkElement) {
-          const href = ev.target.href;
+          const href = linkElement.href;
           parent.postMessage({ linkClick: href }, "*");
         }
       });

@@ -14,14 +14,5 @@
   "frontMatter": {
     "id": "share",
     "title": "Share your idea"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "🇮🇳 Life in a Krishna temple",
-    "permalink": "/explore/krishna"
-  },
-  "next": {
-    "title": "Buying land",
-    "permalink": "/land/buy"
   }
 }

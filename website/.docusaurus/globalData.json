@@ -12,17 +12,20 @@
           "docs": [
             {
               "id": "basekamp/container",
-              "path": "/basekamp/container",
-              "sidebar": "docs"
+              "path": "/basekamp/container"
             },
             {
               "id": "basekamp/house",
-              "path": "/basekamp/house",
-              "sidebar": "docs"
+              "path": "/basekamp/house"
             },
             {
               "id": "basekamp/intro",
               "path": "/basekamp/intro",
+              "sidebar": "docs"
+            },
+            {
+              "id": "basekamp/run",
+              "path": "/basekamp/run",
               "sidebar": "docs"
             },
             {
@@ -66,33 +69,27 @@
             },
             {
               "id": "land/share",
-              "path": "/land/share",
-              "sidebar": "docs"
+              "path": "/land/share"
             },
             {
               "id": "start/intro",
-              "path": "/start/intro",
-              "sidebar": "docs"
+              "path": "/start/intro"
             },
             {
               "id": "support/chat",
-              "path": "/support/chat",
-              "sidebar": "docs"
+              "path": "/support/chat"
             },
             {
               "id": "support/download",
-              "path": "/support/download",
-              "sidebar": "docs"
+              "path": "/support/download"
             },
             {
               "id": "support/merch",
-              "path": "/support/merch",
-              "sidebar": "docs"
+              "path": "/support/merch"
             },
             {
               "id": "updates/video",
-              "path": "/updates/",
-              "sidebar": "docs"
+              "path": "/updates/"
             }
           ],
           "draftIds": [],
@@ -100,7 +97,7 @@
             "docs": {
               "link": {
                 "path": "/",
-                "label": "Home"
+                "label": "1. Start"
               }
             }
           }

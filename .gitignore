@@ -7,6 +7,12 @@ lib/core/MetadataBlog.js
 
 website/translated_docs
 website/build/
-website/yarn.lock
 website/node_modules
 website/i18n/*
+website/.yarn/
+
+# Yarn Berry cache files
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz

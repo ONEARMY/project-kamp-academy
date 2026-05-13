@@ -1,5 +1,5 @@
 [build]
-  command = "cd website && npm install && npm run build"
+  command = "cd website && corepack enable && yarn install && yarn build"
   publish = "website/build"
 
 [build.environment]

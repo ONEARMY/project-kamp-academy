@@ -67,3 +67,13 @@ article .videocontainer iframe {
 }
 
 /* Add your existing custom CSS below */
+@media (min-width: 996px) {
+  .navbar--fixed-top {
+    display: none;
+  }
+
+  /* Adjust the main wrapper to prevent content from hiding under the hidden navbar */
+  .main-wrapper {
+    padding-top: 0;
+  }
+}

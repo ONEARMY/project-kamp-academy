@@ -44,12 +44,12 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "path": "../docs",
-          "sidebarPath": "E:\\Repos\\project-kamp-academy\\website\\sidebars.js",
+          "sidebarPath": "/Users/davehakkens/Documents/GitHub/project-kamp-academy/website/sidebars.js",
           "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/"
         },
         "blog": false,
         "theme": {
-          "customCss": "E:\\Repos\\project-kamp-academy\\website\\src\\css\\custom.css"
+          "customCss": "/Users/davehakkens/Documents/GitHub/project-kamp-academy/website/src/css/custom.css"
         }
       }
     ]

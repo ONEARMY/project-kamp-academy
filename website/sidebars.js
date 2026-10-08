@@ -1,39 +1,29 @@
 module.exports = {
   docs: [
-    {
+      {
       type: 'doc',
       id: 'index',
-      label: 'Home',
+      label: '1. Start',
     },
-    {
+      {
       type: 'doc',
-      id: 'start/intro',
-      label: 'Start',
+      id: 'land/buy',
+      label: '2. Get Land',
     },
-    {
+          {
+      type: 'doc',
+      id: 'basekamp/intro',
+      label: '3. Build a Basekamp',
+    },
+          {
+      type: 'doc',
+      id: 'basekamp/run',
+      label: '4. Run a Basekamp',
+    },
+     {
       type: 'category',
-      label: '1. Explore',
+      label: 'Case Studies',
       items: ['explore/intro', 'explore/tamera', 'explore/auroville', 'explore/preciousplastic', 'explore/krishna'],
-    },
-    {
-      type: 'category',
-      label: '2. Find land',
-      items: ['land/share', 'land/buy'],
-    },
-    {
-      type: 'category',
-      label: '3. Setup Basekamp',
-      items: ['basekamp/intro', 'basekamp/house', 'basekamp/container'],
-    },
-    {
-      type: 'category',
-      label: '🎥 Update videos',
-      items: ['updates/video'],
-    },
-    {
-      type: 'category',
-      label: 'More',
-      items: ['support/download', 'support/merch', 'support/chat'],
     },
   ],
 };

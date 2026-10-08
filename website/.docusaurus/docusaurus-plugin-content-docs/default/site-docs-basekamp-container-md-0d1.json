@@ -14,14 +14,5 @@
   "frontMatter": {
     "id": "container",
     "title": "Work in a container"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "House in a Van",
-    "permalink": "/basekamp/house"
-  },
-  "next": {
-    "title": "Latest update",
-    "permalink": "/updates/"
   }
 }

@@ -15,14 +15,5 @@
     "id": "video",
     "title": "Updates",
     "sidebar_label": "Latest update"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Work in a container",
-    "permalink": "/basekamp/container"
-  },
-  "next": {
-    "title": "📦 Download-kit",
-    "permalink": "/support/download"
   }
 }

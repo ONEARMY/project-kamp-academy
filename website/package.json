@@ -2,6 +2,7 @@
   "name": "project-kamp-community",
   "version": "3.0.0",
   "private": true,
+  "packageManager": "yarn@4.5.1",
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",

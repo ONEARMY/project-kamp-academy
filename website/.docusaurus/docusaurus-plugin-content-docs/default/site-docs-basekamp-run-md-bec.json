@@ -1,0 +1,27 @@
+{
+  "id": "basekamp/run",
+  "title": "4. Run a Basekamp",
+  "description": "In the previous chapter you learned how to build a Basekamp. In this chapter you will learn how to run it. How to get people there, how to organise the work, what kind of system to setup and how to prevent issues.",
+  "source": "@site/../docs/basekamp/run.md",
+  "sourceDirName": "basekamp",
+  "slug": "/basekamp/run",
+  "permalink": "/basekamp/run",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/../docs/basekamp/run.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "run",
+    "title": "4. Run a Basekamp"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "3. Build a Basekamp",
+    "permalink": "/basekamp/intro"
+  },
+  "next": {
+    "title": "Start exploring",
+    "permalink": "/explore/intro"
+  }
+}

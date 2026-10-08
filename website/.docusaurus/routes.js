@@ -39,31 +39,35 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '959'),
+    component: ComponentCreator('/', '6ff'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'b1d'),
+        component: ComponentCreator('/', 'e72'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '86b'),
+            component: ComponentCreator('/', 'e31'),
             routes: [
               {
                 path: '/basekamp/container',
-                component: ComponentCreator('/basekamp/container', 'c9d'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/basekamp/container', '097'),
+                exact: true
               },
               {
                 path: '/basekamp/house',
-                component: ComponentCreator('/basekamp/house', '383'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/basekamp/house', '5b9'),
+                exact: true
               },
               {
                 path: '/basekamp/intro',
                 component: ComponentCreator('/basekamp/intro', '631'),
+                exact: true,
+                sidebar: "docs"
+              },
+              {
+                path: '/basekamp/run',
+                component: ComponentCreator('/basekamp/run', 'b4c'),
                 exact: true,
                 sidebar: "docs"
               },
@@ -110,39 +114,33 @@ export default [
               },
               {
                 path: '/land/share',
-                component: ComponentCreator('/land/share', '139'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/land/share', '0ce'),
+                exact: true
               },
               {
                 path: '/start/intro',
-                component: ComponentCreator('/start/intro', 'edc'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/start/intro', '32d'),
+                exact: true
               },
               {
                 path: '/support/chat',
-                component: ComponentCreator('/support/chat', 'fb1'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/support/chat', 'a80'),
+                exact: true
               },
               {
                 path: '/support/download',
-                component: ComponentCreator('/support/download', '9d6'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/support/download', '378'),
+                exact: true
               },
               {
                 path: '/support/merch',
-                component: ComponentCreator('/support/merch', 'ce6'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/support/merch', '7bb'),
+                exact: true
               },
               {
                 path: '/updates/',
-                component: ComponentCreator('/updates/', 'c50'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/updates/', '97c'),
+                exact: true
               },
               {
                 path: '/',

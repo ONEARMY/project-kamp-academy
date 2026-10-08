@@ -10,7 +10,7 @@ title: 1. Start
 
 # Hello ✋
 
-Good to see you here in our Project Kamp Academy! This is the place where we try and help you build your own world. How to get a land, what infrastructure to build, how to assemble a team etc. We share tutorial videos and information that help you guide thought the process step by step. Two important notes before we start.
+Good to see you here in our Project Kamp Academy! This is the place where we try and help you build your own world. How to get a land, what infrastructure to build, how to assemble a team etc. We share tutorial videos and information that help you guide thought the process step by step. Two important notes before we start..
 
 
 :::note[Important before you get started!]

@@ -44,12 +44,12 @@ export default {
         "docs": {
           "routeBasePath": "/",
           "path": "../docs",
-          "sidebarPath": "E:\\Repos\\project-kamp-academy\\website\\sidebars.js",
+          "sidebarPath": "/Users/dave/Documents/GitHub/project-kamp-academy/website/sidebars.js",
           "editUrl": "https://github.com/ONEARMY/project-kamp-academy/blob/master/"
         },
         "blog": false,
         "theme": {
-          "customCss": "E:\\Repos\\project-kamp-academy\\website\\src\\css\\custom.css"
+          "customCss": "/Users/dave/Documents/GitHub/project-kamp-academy/website/src/css/custom.css"
         }
       }
     ]
@@ -294,12 +294,19 @@ export default {
     }
   },
   "baseUrlIssueBanner": true,
+  "storage": {
+    "type": "localStorage",
+    "namespace": false
+  },
   "future": {
     "v4": {
       "removeLegacyPostBuildHeadAttribute": false,
-      "useCssCascadeLayers": false
+      "useCssCascadeLayers": false,
+      "siteStorageNamespacing": false,
+      "fasterByDefault": false,
+      "mdx1CompatDisabledByDefault": false
     },
-    "experimental_faster": {
+    "faster": {
       "swcJsLoader": false,
       "swcJsMinimizer": false,
       "swcHtmlMinimizer": false,
@@ -307,12 +314,10 @@ export default {
       "mdxCrossCompilerCache": false,
       "rspackBundler": false,
       "rspackPersistentCache": false,
-      "ssgWorkerThreads": false
+      "ssgWorkerThreads": false,
+      "gitEagerVcs": false
     },
-    "experimental_storage": {
-      "type": "localStorage",
-      "namespace": false
-    },
+    "experimental_vcs": {},
     "experimental_router": "browser"
   },
   "onBrokenAnchors": "warn",

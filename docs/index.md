@@ -6,6 +6,12 @@ slug: /
 
 Good to see you here in our Project Kamp Academy. This is the place where we share our developments and steps forward to setup Project Kamp. How to research, how to buy land, how to prototype etc. But before we go in depth, here is a quick overview where we are currently at.
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
 ## Goal
 
 The goal of this project is to try to find alternative way to live, one that causes less negative impact on the environment, we don't know what this looks like. But we are doing research, exploring and prototyping it. And the key element is that we share all our development open-source online. So everyone can learn from our mistakes and copy the best things.

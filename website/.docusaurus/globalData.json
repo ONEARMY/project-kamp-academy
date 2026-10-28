@@ -71,8 +71,7 @@
             },
             {
               "id": "start/intro",
-              "path": "/start/intro",
-              "sidebar": "docs"
+              "path": "/start/intro"
             },
             {
               "id": "support/chat",

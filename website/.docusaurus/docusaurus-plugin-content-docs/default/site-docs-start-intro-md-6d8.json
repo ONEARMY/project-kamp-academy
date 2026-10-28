@@ -14,14 +14,5 @@
   "frontMatter": {
     "id": "intro",
     "title": "Hello ✋"
-  },
-  "sidebar": "docs",
-  "previous": {
-    "title": "Home",
-    "permalink": "/"
-  },
-  "next": {
-    "title": "Start exploring",
-    "permalink": "/explore/intro"
   }
 }

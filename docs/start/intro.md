@@ -4,6 +4,12 @@ title: Hello ✋
 ---
 Good to see you here in our Project Kamp Academy. This is the place where we share our developments and steps forward to setup Project Kamp. How to research, how to buy land, how to prototype etc. But before we go in depth, here is a quick overview where we are currently at.
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
 
 ### Goal
 

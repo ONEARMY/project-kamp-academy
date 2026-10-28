@@ -7,6 +7,13 @@ title: Work in a container
   <iframe width="800" height="400" src="https://www.youtube.com/embed/bjU7QKcEUFY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
+
 We will show you how to get your basic utilities ready to move to a piece of land and setup a Basekamp. This way you can work right away and use all the tools and equipment you need. Not worrying about the basics, this will help to focus on restoring the land as a first priority. We see the Basekamp as a rough but functional starting point to grow from. We converted our basic utilities into two shipping containers! Workspace & Towncenter like in [Age of Empires](https://bit.ly/2Z5vidU).
 
 # Workspace and Towncenter utilities

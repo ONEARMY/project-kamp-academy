@@ -7,6 +7,13 @@ title: Buying land
   <iframe width="800" height="400" src="https://www.youtube.com/embed/GaIBY1klcZ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
+
 # Introduction
 
 After you have visualised that [raw idea](https://community.projectkamp.com/academy/land/share) in your mind and shared your plan with others it's time for the big thing. Finding a piece of land. In this video we will explain how to do this step by step. From researching which land you need, to actually visiting the land and finally the buying process. Seeing how to set a price, where to look out for and what additional costs you will have. Below we will also go a bit more in depth on some documents that can be useful to use.

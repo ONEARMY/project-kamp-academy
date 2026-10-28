@@ -1,7 +1,7 @@
 {
   "id": "explore/intro",
   "title": "Start exploring",
-  "description": "Exploring what is already out there is an important step for starting to setup your own community. There are people all over the world who have already been doing it for years. There is already a lot of technology, structures and system figured out along the way. That said the downside is that very little of this information can be found online, it's a lot in the minds of older generation.",
+  "description": "Big update coming to the Academy April 2027. Stay tuned 🔥",
   "source": "@site/../docs/explore/intro.md",
   "sourceDirName": "explore",
   "slug": "/explore/intro",
@@ -17,8 +17,8 @@
   },
   "sidebar": "docs",
   "previous": {
-    "title": "Start",
-    "permalink": "/start/intro"
+    "title": "Home",
+    "permalink": "/"
   },
   "next": {
     "title": "Tamera in Portugal",

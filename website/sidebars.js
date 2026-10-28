@@ -6,11 +6,6 @@ module.exports = {
       label: 'Home',
     },
     {
-      type: 'doc',
-      id: 'start/intro',
-      label: 'Start',
-    },
-    {
       type: 'category',
       label: '1. Explore',
       items: ['explore/intro', 'explore/tamera', 'explore/auroville', 'explore/preciousplastic', 'explore/krishna'],

@@ -39,15 +39,15 @@ export default [
   },
   {
     path: '/',
-    component: ComponentCreator('/', '959'),
+    component: ComponentCreator('/', 'adc'),
     routes: [
       {
         path: '/',
-        component: ComponentCreator('/', 'b1d'),
+        component: ComponentCreator('/', 'b20'),
         routes: [
           {
             path: '/',
-            component: ComponentCreator('/', '86b'),
+            component: ComponentCreator('/', '751'),
             routes: [
               {
                 path: '/basekamp/container',
@@ -116,9 +116,8 @@ export default [
               },
               {
                 path: '/start/intro',
-                component: ComponentCreator('/start/intro', 'edc'),
-                exact: true,
-                sidebar: "docs"
+                component: ComponentCreator('/start/intro', '32d'),
+                exact: true
               },
               {
                 path: '/support/chat',

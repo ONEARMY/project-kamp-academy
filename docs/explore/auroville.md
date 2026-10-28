@@ -7,6 +7,13 @@ title: 🇮🇳 Auroville in India
   <iframe width="800" height="400" src="https://www.youtube.com/embed/d-PgtNcByWk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
+
 | 🇮🇳 Information Auroville |                                                                            |
 | ------------------------ | -------------------------------------------------------------------------- |
 | 📍 Location              | Auroville, India                                                           |

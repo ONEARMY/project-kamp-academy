@@ -7,6 +7,13 @@ title: House in a Van
   <iframe width="800" height="400" src="https://www.youtube.com/embed/xOq4OWf8ecI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
+
 Specially in the early days of setting up a community it's hectic. Making sure there is water, a workspace is being setup, the kitchen is running and the showers work. Long days, a lot of physical work, it's tiring. You are working on the shared facilities and infrastructure for the community. And you don't want to spend too much time thinking about your individual place to sleep. However a good night rest is crucial. Luckily this is something you can prepare in advance, you can make it easier on yourself by living in a Van. Take your comfort with you.
 
 # Why does a van makes sense?

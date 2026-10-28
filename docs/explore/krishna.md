@@ -7,6 +7,13 @@ title: 🇮🇳 Life in a Krishna temple
   <iframe width="800" height="400" src="https://www.youtube.com/embed/UaI1vAgV6bU " frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
+
 | 🇮🇳 Information Krishna Consciousness |                                                               |
 | ------------------------------------ | ------------------------------------------------------------- |
 | 📍 Location                          | Worldwide                                                     |

@@ -4,6 +4,12 @@ title: Updates
 sidebar_label: Latest update
 ---
 
+:::info
+
+Big update coming to the Academy April 2027. Stay tuned 🔥
+
+:::
+
 
 To make sure we properly document and archive everything we started doing update videos. These videos are a chronological way to keep track of our development and documentation. Some work we do will take years to complete, for instance "transforming dead soil to a forest". In these update videos you can follow us along the way.  They are messy, rough, don't always make sense and could have some dead ends but show what happens behind the scenes. And finally when we have learned our lessons, made our mistakes and found the best way we share our knowledge in main Academy videos. Just trying to make sure you get the difference, wait let me make it more clear.
 
